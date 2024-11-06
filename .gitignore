@@ -4,3 +4,6 @@ data/characters.db
 data/roster.db
 web-dashboard/client/node_modules
 web-dasbhoard/server/node_modules
+images/loading.gif
+images/loading.webm
+images/mainbackground.png

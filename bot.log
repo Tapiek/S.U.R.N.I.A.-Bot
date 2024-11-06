@@ -1,0 +1,1973 @@
+2024-10-26T21:26:46.785Z [INFO]: Scan completed successfully for mode: standard, location: current area, query: , detailed: false
+2024-10-26T21:29:06.803Z [INFO]: Initialization Frame: Step 0 / 60 - Progress: 0%
+2024-10-26T21:29:06.830Z [INFO]: Initialization Frame: Step 1 / 60 - Progress: 1%
+2024-10-26T21:29:06.849Z [INFO]: Initialization Frame: Step 2 / 60 - Progress: 3%
+2024-10-26T21:29:06.869Z [INFO]: Initialization Frame: Step 3 / 60 - Progress: 5%
+2024-10-26T21:29:06.888Z [INFO]: Initialization Frame: Step 4 / 60 - Progress: 6%
+2024-10-26T21:29:06.907Z [INFO]: Initialization Frame: Step 5 / 60 - Progress: 8%
+2024-10-26T21:29:06.927Z [INFO]: Initialization Frame: Step 6 / 60 - Progress: 10%
+2024-10-26T21:29:06.947Z [INFO]: Initialization Frame: Step 7 / 60 - Progress: 11%
+2024-10-26T21:29:06.966Z [INFO]: Initialization Frame: Step 8 / 60 - Progress: 13%
+2024-10-26T21:29:06.982Z [INFO]: Initialization Frame: Step 9 / 60 - Progress: 15%
+2024-10-26T21:29:06.999Z [INFO]: Initialization Frame: Step 10 / 60 - Progress: 16%
+2024-10-26T21:29:07.020Z [INFO]: Initialization Frame: Step 11 / 60 - Progress: 18%
+2024-10-26T21:29:07.039Z [INFO]: Initialization Frame: Step 12 / 60 - Progress: 20%
+2024-10-26T21:29:07.055Z [INFO]: Initialization Frame: Step 13 / 60 - Progress: 21%
+2024-10-26T21:29:07.071Z [INFO]: Initialization Frame: Step 14 / 60 - Progress: 23%
+2024-10-26T21:29:07.086Z [INFO]: Initialization Frame: Step 15 / 60 - Progress: 25%
+2024-10-26T21:29:07.102Z [INFO]: Initialization Frame: Step 16 / 60 - Progress: 26%
+2024-10-26T21:29:07.122Z [INFO]: Initialization Frame: Step 17 / 60 - Progress: 28%
+2024-10-26T21:29:07.138Z [INFO]: Initialization Frame: Step 18 / 60 - Progress: 30%
+2024-10-26T21:29:07.154Z [INFO]: Initialization Frame: Step 19 / 60 - Progress: 31%
+2024-10-26T21:29:07.175Z [INFO]: Initialization Frame: Step 20 / 60 - Progress: 33%
+2024-10-26T21:29:07.190Z [INFO]: Initialization Frame: Step 21 / 60 - Progress: 35%
+2024-10-26T21:29:07.206Z [INFO]: Initialization Frame: Step 22 / 60 - Progress: 36%
+2024-10-26T21:29:07.223Z [INFO]: Initialization Frame: Step 23 / 60 - Progress: 38%
+2024-10-26T21:29:07.242Z [INFO]: Initialization Frame: Step 24 / 60 - Progress: 40%
+2024-10-26T21:29:07.262Z [INFO]: Initialization Frame: Step 25 / 60 - Progress: 41%
+2024-10-26T21:29:07.278Z [INFO]: Initialization Frame: Step 26 / 60 - Progress: 43%
+2024-10-26T21:29:07.294Z [INFO]: Initialization Frame: Step 27 / 60 - Progress: 45%
+2024-10-26T21:29:07.314Z [INFO]: Initialization Frame: Step 28 / 60 - Progress: 46%
+2024-10-26T21:29:07.330Z [INFO]: Initialization Frame: Step 29 / 60 - Progress: 48%
+2024-10-26T21:29:07.345Z [INFO]: Initialization Frame: Step 30 / 60 - Progress: 50%
+2024-10-26T21:29:07.361Z [INFO]: Initialization Frame: Step 31 / 60 - Progress: 51%
+2024-10-26T21:29:07.376Z [INFO]: Initialization Frame: Step 32 / 60 - Progress: 53%
+2024-10-26T21:29:07.390Z [INFO]: Initialization Frame: Step 33 / 60 - Progress: 55%
+2024-10-26T21:29:07.406Z [INFO]: Initialization Frame: Step 34 / 60 - Progress: 56%
+2024-10-26T21:29:07.421Z [INFO]: Initialization Frame: Step 35 / 60 - Progress: 58%
+2024-10-26T21:29:07.441Z [INFO]: Initialization Frame: Step 36 / 60 - Progress: 60%
+2024-10-26T21:29:07.457Z [INFO]: Initialization Frame: Step 37 / 60 - Progress: 61%
+2024-10-26T21:29:07.472Z [INFO]: Initialization Frame: Step 38 / 60 - Progress: 63%
+2024-10-26T21:29:07.488Z [INFO]: Initialization Frame: Step 39 / 60 - Progress: 65%
+2024-10-26T21:29:07.509Z [INFO]: Initialization Frame: Step 40 / 60 - Progress: 66%
+2024-10-26T21:29:07.528Z [INFO]: Initialization Frame: Step 41 / 60 - Progress: 68%
+2024-10-26T21:29:07.543Z [INFO]: Initialization Frame: Step 42 / 60 - Progress: 70%
+2024-10-26T21:29:07.558Z [INFO]: Initialization Frame: Step 43 / 60 - Progress: 71%
+2024-10-26T21:29:07.575Z [INFO]: Initialization Frame: Step 44 / 60 - Progress: 73%
+2024-10-26T21:29:07.590Z [INFO]: Initialization Frame: Step 45 / 60 - Progress: 75%
+2024-10-26T21:29:07.606Z [INFO]: Initialization Frame: Step 46 / 60 - Progress: 76%
+2024-10-26T21:29:07.621Z [INFO]: Initialization Frame: Step 47 / 60 - Progress: 78%
+2024-10-26T21:29:07.636Z [INFO]: Initialization Frame: Step 48 / 60 - Progress: 80%
+2024-10-26T21:29:07.651Z [INFO]: Initialization Frame: Step 49 / 60 - Progress: 81%
+2024-10-26T21:29:07.670Z [INFO]: Initialization Frame: Step 50 / 60 - Progress: 83%
+2024-10-26T21:29:07.686Z [INFO]: Initialization Frame: Step 51 / 60 - Progress: 85%
+2024-10-26T21:29:07.702Z [INFO]: Initialization Frame: Step 52 / 60 - Progress: 86%
+2024-10-26T21:29:07.716Z [INFO]: Initialization Frame: Step 53 / 60 - Progress: 88%
+2024-10-26T21:29:07.731Z [INFO]: Initialization Frame: Step 54 / 60 - Progress: 90%
+2024-10-26T21:29:07.746Z [INFO]: Initialization Frame: Step 55 / 60 - Progress: 91%
+2024-10-26T21:29:07.761Z [INFO]: Initialization Frame: Step 56 / 60 - Progress: 93%
+2024-10-26T21:29:07.777Z [INFO]: Initialization Frame: Step 57 / 60 - Progress: 95%
+2024-10-26T21:29:07.791Z [INFO]: Initialization Frame: Step 58 / 60 - Progress: 96%
+2024-10-26T21:29:07.806Z [INFO]: Initialization Frame: Step 59 / 60 - Progress: 98%
+2024-10-26T21:29:07.820Z [INFO]: Initialization Frame: Step 60 / 60 - Progress: 100%
+2024-10-26T21:29:07.839Z [INFO]: Scanning Frame: Step 0 / 100 - scanLineY: 200
+2024-10-26T21:29:07.857Z [INFO]: Scanning Frame: Step 1 / 100 - scanLineY: 204
+2024-10-26T21:29:07.874Z [INFO]: Scanning Frame: Step 2 / 100 - scanLineY: 208
+2024-10-26T21:29:07.893Z [INFO]: Scanning Frame: Step 3 / 100 - scanLineY: 212
+2024-10-26T21:29:07.910Z [INFO]: Scanning Frame: Step 4 / 100 - scanLineY: 216
+2024-10-26T21:29:07.928Z [INFO]: Scanning Frame: Step 5 / 100 - scanLineY: 220
+2024-10-26T21:29:07.946Z [INFO]: Scanning Frame: Step 6 / 100 - scanLineY: 224
+2024-10-26T21:29:07.965Z [INFO]: Scanning Frame: Step 7 / 100 - scanLineY: 228
+2024-10-26T21:29:07.985Z [INFO]: Scanning Frame: Step 8 / 100 - scanLineY: 232
+2024-10-26T21:29:08.007Z [INFO]: Scanning Frame: Step 9 / 100 - scanLineY: 236
+2024-10-26T21:29:08.028Z [INFO]: Scanning Frame: Step 10 / 100 - scanLineY: 240
+2024-10-26T21:29:08.046Z [INFO]: Scanning Frame: Step 11 / 100 - scanLineY: 244
+2024-10-26T21:29:08.065Z [INFO]: Scanning Frame: Step 12 / 100 - scanLineY: 248
+2024-10-26T21:29:08.084Z [INFO]: Scanning Frame: Step 13 / 100 - scanLineY: 252
+2024-10-26T21:29:08.105Z [INFO]: Scanning Frame: Step 14 / 100 - scanLineY: 256
+2024-10-26T21:29:08.124Z [INFO]: Scanning Frame: Step 15 / 100 - scanLineY: 260
+2024-10-26T21:29:08.144Z [INFO]: Scanning Frame: Step 16 / 100 - scanLineY: 264
+2024-10-26T21:29:08.162Z [INFO]: Scanning Frame: Step 17 / 100 - scanLineY: 268
+2024-10-26T21:29:08.178Z [INFO]: Scanning Frame: Step 18 / 100 - scanLineY: 272
+2024-10-26T21:29:08.195Z [INFO]: Scanning Frame: Step 19 / 100 - scanLineY: 276
+2024-10-26T21:29:08.212Z [INFO]: Scanning Frame: Step 20 / 100 - scanLineY: 280
+2024-10-26T21:29:08.231Z [INFO]: Scanning Frame: Step 21 / 100 - scanLineY: 284
+2024-10-26T21:29:08.247Z [INFO]: Scanning Frame: Step 22 / 100 - scanLineY: 288
+2024-10-26T21:29:08.264Z [INFO]: Scanning Frame: Step 23 / 100 - scanLineY: 292
+2024-10-26T21:29:08.281Z [INFO]: Scanning Frame: Step 24 / 100 - scanLineY: 296
+2024-10-26T21:29:08.299Z [INFO]: Scanning Frame: Step 25 / 100 - scanLineY: 300
+2024-10-26T21:29:08.316Z [INFO]: Scanning Frame: Step 26 / 100 - scanLineY: 304
+2024-10-26T21:29:08.333Z [INFO]: Scanning Frame: Step 27 / 100 - scanLineY: 308
+2024-10-26T21:29:08.350Z [INFO]: Scanning Frame: Step 28 / 100 - scanLineY: 312
+2024-10-26T21:29:08.367Z [INFO]: Scanning Frame: Step 29 / 100 - scanLineY: 316
+2024-10-26T21:29:08.387Z [INFO]: Scanning Frame: Step 30 / 100 - scanLineY: 320
+2024-10-26T21:29:08.407Z [INFO]: Scanning Frame: Step 31 / 100 - scanLineY: 324
+2024-10-26T21:29:08.424Z [INFO]: Scanning Frame: Step 32 / 100 - scanLineY: 328
+2024-10-26T21:29:08.442Z [INFO]: Scanning Frame: Step 33 / 100 - scanLineY: 332
+2024-10-26T21:29:08.458Z [INFO]: Scanning Frame: Step 34 / 100 - scanLineY: 336
+2024-10-26T21:29:08.474Z [INFO]: Scanning Frame: Step 35 / 100 - scanLineY: 340
+2024-10-26T21:29:08.491Z [INFO]: Scanning Frame: Step 36 / 100 - scanLineY: 344
+2024-10-26T21:29:08.508Z [INFO]: Scanning Frame: Step 37 / 100 - scanLineY: 348
+2024-10-26T21:29:08.524Z [INFO]: Scanning Frame: Step 38 / 100 - scanLineY: 352
+2024-10-26T21:29:08.541Z [INFO]: Scanning Frame: Step 39 / 100 - scanLineY: 356
+2024-10-26T21:29:08.557Z [INFO]: Scanning Frame: Step 40 / 100 - scanLineY: 360
+2024-10-26T21:29:08.573Z [INFO]: Scanning Frame: Step 41 / 100 - scanLineY: 364
+2024-10-26T21:29:08.589Z [INFO]: Scanning Frame: Step 42 / 100 - scanLineY: 368
+2024-10-26T21:29:08.606Z [INFO]: Scanning Frame: Step 43 / 100 - scanLineY: 372
+2024-10-26T21:29:08.623Z [INFO]: Scanning Frame: Step 44 / 100 - scanLineY: 376
+2024-10-26T21:29:08.640Z [INFO]: Scanning Frame: Step 45 / 100 - scanLineY: 380
+2024-10-26T21:29:08.657Z [INFO]: Scanning Frame: Step 46 / 100 - scanLineY: 384
+2024-10-26T21:29:08.674Z [INFO]: Scanning Frame: Step 47 / 100 - scanLineY: 388
+2024-10-26T21:29:08.691Z [INFO]: Scanning Frame: Step 48 / 100 - scanLineY: 392
+2024-10-26T21:29:08.708Z [INFO]: Scanning Frame: Step 49 / 100 - scanLineY: 396
+2024-10-26T21:29:08.724Z [INFO]: Scanning Frame: Step 50 / 100 - scanLineY: 400
+2024-10-26T21:29:08.740Z [INFO]: Scanning Frame: Step 51 / 100 - scanLineY: 404
+2024-10-26T21:29:08.756Z [INFO]: Scanning Frame: Step 52 / 100 - scanLineY: 408
+2024-10-26T21:29:08.775Z [INFO]: Scanning Frame: Step 53 / 100 - scanLineY: 412
+2024-10-26T21:29:08.792Z [INFO]: Scanning Frame: Step 54 / 100 - scanLineY: 416
+2024-10-26T21:29:08.809Z [INFO]: Scanning Frame: Step 55 / 100 - scanLineY: 420
+2024-10-26T21:29:08.826Z [INFO]: Scanning Frame: Step 56 / 100 - scanLineY: 424
+2024-10-26T21:29:08.843Z [INFO]: Scanning Frame: Step 57 / 100 - scanLineY: 428
+2024-10-26T21:29:08.862Z [INFO]: Scanning Frame: Step 58 / 100 - scanLineY: 432
+2024-10-26T21:29:08.880Z [INFO]: Scanning Frame: Step 59 / 100 - scanLineY: 436
+2024-10-26T21:29:08.897Z [INFO]: Scanning Frame: Step 60 / 100 - scanLineY: 440
+2024-10-26T21:29:08.913Z [INFO]: Scanning Frame: Step 61 / 100 - scanLineY: 444
+2024-10-26T21:29:08.930Z [INFO]: Scanning Frame: Step 62 / 100 - scanLineY: 448
+2024-10-26T21:29:08.949Z [INFO]: Scanning Frame: Step 63 / 100 - scanLineY: 452
+2024-10-26T21:29:08.966Z [INFO]: Scanning Frame: Step 64 / 100 - scanLineY: 456
+2024-10-26T21:29:08.982Z [INFO]: Scanning Frame: Step 65 / 100 - scanLineY: 460
+2024-10-26T21:29:08.999Z [INFO]: Scanning Frame: Step 66 / 100 - scanLineY: 464
+2024-10-26T21:29:09.016Z [INFO]: Scanning Frame: Step 67 / 100 - scanLineY: 468
+2024-10-26T21:29:09.032Z [INFO]: Scanning Frame: Step 68 / 100 - scanLineY: 472
+2024-10-26T21:29:09.048Z [INFO]: Scanning Frame: Step 69 / 100 - scanLineY: 476
+2024-10-26T21:29:09.065Z [INFO]: Scanning Frame: Step 70 / 100 - scanLineY: 480
+2024-10-26T21:29:09.081Z [INFO]: Scanning Frame: Step 71 / 100 - scanLineY: 484
+2024-10-26T21:29:09.098Z [INFO]: Scanning Frame: Step 72 / 100 - scanLineY: 488
+2024-10-26T21:29:09.114Z [INFO]: Scanning Frame: Step 73 / 100 - scanLineY: 492
+2024-10-26T21:29:09.132Z [INFO]: Scanning Frame: Step 74 / 100 - scanLineY: 496
+2024-10-26T21:29:09.149Z [INFO]: Scanning Frame: Step 75 / 100 - scanLineY: 500
+2024-10-26T21:29:09.165Z [INFO]: Scanning Frame: Step 76 / 100 - scanLineY: 504
+2024-10-26T21:29:09.182Z [INFO]: Scanning Frame: Step 77 / 100 - scanLineY: 508
+2024-10-26T21:29:09.200Z [INFO]: Scanning Frame: Step 78 / 100 - scanLineY: 512
+2024-10-26T21:29:09.217Z [INFO]: Scanning Frame: Step 79 / 100 - scanLineY: 516
+2024-10-26T21:29:09.234Z [INFO]: Scanning Frame: Step 80 / 100 - scanLineY: 520
+2024-10-26T21:29:09.250Z [INFO]: Scanning Frame: Step 81 / 100 - scanLineY: 524
+2024-10-26T21:29:09.266Z [INFO]: Scanning Frame: Step 82 / 100 - scanLineY: 528
+2024-10-26T21:29:09.284Z [INFO]: Scanning Frame: Step 83 / 100 - scanLineY: 532
+2024-10-26T21:29:09.301Z [INFO]: Scanning Frame: Step 84 / 100 - scanLineY: 536
+2024-10-26T21:29:09.318Z [INFO]: Scanning Frame: Step 85 / 100 - scanLineY: 540
+2024-10-26T21:29:09.335Z [INFO]: Scanning Frame: Step 86 / 100 - scanLineY: 544
+2024-10-26T21:29:09.351Z [INFO]: Scanning Frame: Step 87 / 100 - scanLineY: 548
+2024-10-26T21:29:09.368Z [INFO]: Scanning Frame: Step 88 / 100 - scanLineY: 552
+2024-10-26T21:29:09.384Z [INFO]: Scanning Frame: Step 89 / 100 - scanLineY: 556
+2024-10-26T21:29:09.401Z [INFO]: Scanning Frame: Step 90 / 100 - scanLineY: 560
+2024-10-26T21:29:09.417Z [INFO]: Scanning Frame: Step 91 / 100 - scanLineY: 564
+2024-10-26T21:29:09.433Z [INFO]: Scanning Frame: Step 92 / 100 - scanLineY: 568
+2024-10-26T21:29:09.450Z [INFO]: Scanning Frame: Step 93 / 100 - scanLineY: 572
+2024-10-26T21:29:09.466Z [INFO]: Scanning Frame: Step 94 / 100 - scanLineY: 576
+2024-10-26T21:29:09.485Z [INFO]: Scanning Frame: Step 95 / 100 - scanLineY: 580
+2024-10-26T21:29:09.501Z [INFO]: Scanning Frame: Step 96 / 100 - scanLineY: 584
+2024-10-26T21:29:09.517Z [INFO]: Scanning Frame: Step 97 / 100 - scanLineY: 588
+2024-10-26T21:29:09.533Z [INFO]: Scanning Frame: Step 98 / 100 - scanLineY: 592
+2024-10-26T21:29:09.550Z [INFO]: Scanning Frame: Step 99 / 100 - scanLineY: 596
+2024-10-26T21:29:09.567Z [INFO]: Scanning Frame: Step 100 / 100 - scanLineY: 600
+2024-10-26T21:29:09.590Z [INFO]: Result Frame: Step 0 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.610Z [INFO]: Result Frame: Step 1 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.629Z [INFO]: Result Frame: Step 2 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.648Z [INFO]: Result Frame: Step 3 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.671Z [INFO]: Result Frame: Step 4 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.690Z [INFO]: Result Frame: Step 5 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.705Z [INFO]: Result Frame: Step 6 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.720Z [INFO]: Result Frame: Step 7 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.737Z [INFO]: Result Frame: Step 8 / 80 - Visible Lines: 0
+2024-10-26T21:29:09.752Z [INFO]: Result Frame: Step 9 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.769Z [INFO]: Result Frame: Step 10 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.788Z [INFO]: Result Frame: Step 11 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.805Z [INFO]: Result Frame: Step 12 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.822Z [INFO]: Result Frame: Step 13 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.838Z [INFO]: Result Frame: Step 14 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.857Z [INFO]: Result Frame: Step 15 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.872Z [INFO]: Result Frame: Step 16 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.889Z [INFO]: Result Frame: Step 17 / 80 - Visible Lines: 1
+2024-10-26T21:29:09.905Z [INFO]: Result Frame: Step 18 / 80 - Visible Lines: 2
+2024-10-26T21:29:09.923Z [INFO]: Result Frame: Step 19 / 80 - Visible Lines: 2
+2024-10-26T21:29:09.941Z [INFO]: Result Frame: Step 20 / 80 - Visible Lines: 2
+2024-10-26T21:29:09.960Z [INFO]: Result Frame: Step 21 / 80 - Visible Lines: 2
+2024-10-26T21:29:09.978Z [INFO]: Result Frame: Step 22 / 80 - Visible Lines: 2
+2024-10-26T21:29:09.996Z [INFO]: Result Frame: Step 23 / 80 - Visible Lines: 2
+2024-10-26T21:29:10.016Z [INFO]: Result Frame: Step 24 / 80 - Visible Lines: 2
+2024-10-26T21:29:10.035Z [INFO]: Result Frame: Step 25 / 80 - Visible Lines: 2
+2024-10-26T21:29:10.052Z [INFO]: Result Frame: Step 26 / 80 - Visible Lines: 2
+2024-10-26T21:29:10.072Z [INFO]: Result Frame: Step 27 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.092Z [INFO]: Result Frame: Step 28 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.113Z [INFO]: Result Frame: Step 29 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.133Z [INFO]: Result Frame: Step 30 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.154Z [INFO]: Result Frame: Step 31 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.173Z [INFO]: Result Frame: Step 32 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.193Z [INFO]: Result Frame: Step 33 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.212Z [INFO]: Result Frame: Step 34 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.233Z [INFO]: Result Frame: Step 35 / 80 - Visible Lines: 3
+2024-10-26T21:29:10.252Z [INFO]: Result Frame: Step 36 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.272Z [INFO]: Result Frame: Step 37 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.293Z [INFO]: Result Frame: Step 38 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.316Z [INFO]: Result Frame: Step 39 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.338Z [INFO]: Result Frame: Step 40 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.359Z [INFO]: Result Frame: Step 41 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.381Z [INFO]: Result Frame: Step 42 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.406Z [INFO]: Result Frame: Step 43 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.429Z [INFO]: Result Frame: Step 44 / 80 - Visible Lines: 4
+2024-10-26T21:29:10.453Z [INFO]: Result Frame: Step 45 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.477Z [INFO]: Result Frame: Step 46 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.503Z [INFO]: Result Frame: Step 47 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.525Z [INFO]: Result Frame: Step 48 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.547Z [INFO]: Result Frame: Step 49 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.570Z [INFO]: Result Frame: Step 50 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.594Z [INFO]: Result Frame: Step 51 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.616Z [INFO]: Result Frame: Step 52 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.638Z [INFO]: Result Frame: Step 53 / 80 - Visible Lines: 5
+2024-10-26T21:29:10.661Z [INFO]: Result Frame: Step 54 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.685Z [INFO]: Result Frame: Step 55 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.710Z [INFO]: Result Frame: Step 56 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.733Z [INFO]: Result Frame: Step 57 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.758Z [INFO]: Result Frame: Step 58 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.784Z [INFO]: Result Frame: Step 59 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.808Z [INFO]: Result Frame: Step 60 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.832Z [INFO]: Result Frame: Step 61 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.860Z [INFO]: Result Frame: Step 62 / 80 - Visible Lines: 6
+2024-10-26T21:29:10.885Z [INFO]: Result Frame: Step 63 / 80 - Visible Lines: 7
+2024-10-26T21:29:10.911Z [INFO]: Result Frame: Step 64 / 80 - Visible Lines: 7
+2024-10-26T21:29:10.938Z [INFO]: Result Frame: Step 65 / 80 - Visible Lines: 7
+2024-10-26T21:29:10.964Z [INFO]: Result Frame: Step 66 / 80 - Visible Lines: 7
+2024-10-26T21:29:10.990Z [INFO]: Result Frame: Step 67 / 80 - Visible Lines: 7
+2024-10-26T21:29:11.016Z [INFO]: Result Frame: Step 68 / 80 - Visible Lines: 7
+2024-10-26T21:29:11.042Z [INFO]: Result Frame: Step 69 / 80 - Visible Lines: 7
+2024-10-26T21:29:11.068Z [INFO]: Result Frame: Step 70 / 80 - Visible Lines: 7
+2024-10-26T21:29:11.096Z [INFO]: Result Frame: Step 71 / 80 - Visible Lines: 7
+2024-10-26T21:29:11.121Z [INFO]: Result Frame: Step 72 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.149Z [INFO]: Result Frame: Step 73 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.179Z [INFO]: Result Frame: Step 74 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.207Z [INFO]: Result Frame: Step 75 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.234Z [INFO]: Result Frame: Step 76 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.261Z [INFO]: Result Frame: Step 77 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.290Z [INFO]: Result Frame: Step 78 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.317Z [INFO]: Result Frame: Step 79 / 80 - Visible Lines: 8
+2024-10-26T21:29:11.345Z [INFO]: Result Frame: Step 80 / 80 - Visible Lines: 9
+2024-10-26T21:29:13.787Z [INFO]: Scan completed successfully for mode: standard, location: current area, query: , detailed: false
+2024-10-27T00:29:52.601Z [INFO]: Initialization Frame: Step 0 / 60 - Progress: 0%
+2024-10-27T00:29:52.628Z [INFO]: Initialization Frame: Step 1 / 60 - Progress: 1%
+2024-10-27T00:29:52.649Z [INFO]: Initialization Frame: Step 2 / 60 - Progress: 3%
+2024-10-27T00:29:52.670Z [INFO]: Initialization Frame: Step 3 / 60 - Progress: 5%
+2024-10-27T00:29:52.686Z [INFO]: Initialization Frame: Step 4 / 60 - Progress: 6%
+2024-10-27T00:29:52.707Z [INFO]: Initialization Frame: Step 5 / 60 - Progress: 8%
+2024-10-27T00:29:52.728Z [INFO]: Initialization Frame: Step 6 / 60 - Progress: 10%
+2024-10-27T00:29:52.749Z [INFO]: Initialization Frame: Step 7 / 60 - Progress: 11%
+2024-10-27T00:29:52.765Z [INFO]: Initialization Frame: Step 8 / 60 - Progress: 13%
+2024-10-27T00:29:52.781Z [INFO]: Initialization Frame: Step 9 / 60 - Progress: 15%
+2024-10-27T00:29:52.802Z [INFO]: Initialization Frame: Step 10 / 60 - Progress: 16%
+2024-10-27T00:29:52.818Z [INFO]: Initialization Frame: Step 11 / 60 - Progress: 18%
+2024-10-27T00:29:52.839Z [INFO]: Initialization Frame: Step 12 / 60 - Progress: 20%
+2024-10-27T00:29:52.858Z [INFO]: Initialization Frame: Step 13 / 60 - Progress: 21%
+2024-10-27T00:29:52.877Z [INFO]: Initialization Frame: Step 14 / 60 - Progress: 23%
+2024-10-27T00:29:52.897Z [INFO]: Initialization Frame: Step 15 / 60 - Progress: 25%
+2024-10-27T00:29:52.918Z [INFO]: Initialization Frame: Step 16 / 60 - Progress: 26%
+2024-10-27T00:29:52.938Z [INFO]: Initialization Frame: Step 17 / 60 - Progress: 28%
+2024-10-27T00:29:52.954Z [INFO]: Initialization Frame: Step 18 / 60 - Progress: 30%
+2024-10-27T00:29:52.971Z [INFO]: Initialization Frame: Step 19 / 60 - Progress: 31%
+2024-10-27T00:29:52.991Z [INFO]: Initialization Frame: Step 20 / 60 - Progress: 33%
+2024-10-27T00:29:53.007Z [INFO]: Initialization Frame: Step 21 / 60 - Progress: 35%
+2024-10-27T00:29:53.028Z [INFO]: Initialization Frame: Step 22 / 60 - Progress: 36%
+2024-10-27T00:29:53.044Z [INFO]: Initialization Frame: Step 23 / 60 - Progress: 38%
+2024-10-27T00:29:53.060Z [INFO]: Initialization Frame: Step 24 / 60 - Progress: 40%
+2024-10-27T00:29:53.082Z [INFO]: Initialization Frame: Step 25 / 60 - Progress: 41%
+2024-10-27T00:29:53.100Z [INFO]: Initialization Frame: Step 26 / 60 - Progress: 43%
+2024-10-27T00:29:53.120Z [INFO]: Initialization Frame: Step 27 / 60 - Progress: 45%
+2024-10-27T00:29:53.143Z [INFO]: Initialization Frame: Step 28 / 60 - Progress: 46%
+2024-10-27T00:29:53.162Z [INFO]: Initialization Frame: Step 29 / 60 - Progress: 48%
+2024-10-27T00:29:53.181Z [INFO]: Initialization Frame: Step 30 / 60 - Progress: 50%
+2024-10-27T00:29:53.198Z [INFO]: Initialization Frame: Step 31 / 60 - Progress: 51%
+2024-10-27T00:29:53.214Z [INFO]: Initialization Frame: Step 32 / 60 - Progress: 53%
+2024-10-27T00:29:53.231Z [INFO]: Initialization Frame: Step 33 / 60 - Progress: 55%
+2024-10-27T00:29:53.250Z [INFO]: Initialization Frame: Step 34 / 60 - Progress: 56%
+2024-10-27T00:29:53.269Z [INFO]: Initialization Frame: Step 35 / 60 - Progress: 58%
+2024-10-27T00:29:53.285Z [INFO]: Initialization Frame: Step 36 / 60 - Progress: 60%
+2024-10-27T00:29:53.303Z [INFO]: Initialization Frame: Step 37 / 60 - Progress: 61%
+2024-10-27T00:29:53.322Z [INFO]: Initialization Frame: Step 38 / 60 - Progress: 63%
+2024-10-27T00:29:53.338Z [INFO]: Initialization Frame: Step 39 / 60 - Progress: 65%
+2024-10-27T00:29:53.355Z [INFO]: Initialization Frame: Step 40 / 60 - Progress: 66%
+2024-10-27T00:29:53.374Z [INFO]: Initialization Frame: Step 41 / 60 - Progress: 68%
+2024-10-27T00:29:53.392Z [INFO]: Initialization Frame: Step 42 / 60 - Progress: 70%
+2024-10-27T00:29:53.415Z [INFO]: Initialization Frame: Step 43 / 60 - Progress: 71%
+2024-10-27T00:29:53.431Z [INFO]: Initialization Frame: Step 44 / 60 - Progress: 73%
+2024-10-27T00:29:53.453Z [INFO]: Initialization Frame: Step 45 / 60 - Progress: 75%
+2024-10-27T00:29:53.469Z [INFO]: Initialization Frame: Step 46 / 60 - Progress: 76%
+2024-10-27T00:29:53.485Z [INFO]: Initialization Frame: Step 47 / 60 - Progress: 78%
+2024-10-27T00:29:53.503Z [INFO]: Initialization Frame: Step 48 / 60 - Progress: 80%
+2024-10-27T00:29:53.519Z [INFO]: Initialization Frame: Step 49 / 60 - Progress: 81%
+2024-10-27T00:29:53.535Z [INFO]: Initialization Frame: Step 50 / 60 - Progress: 83%
+2024-10-27T00:29:53.550Z [INFO]: Initialization Frame: Step 51 / 60 - Progress: 85%
+2024-10-27T00:29:53.567Z [INFO]: Initialization Frame: Step 52 / 60 - Progress: 86%
+2024-10-27T00:29:53.584Z [INFO]: Initialization Frame: Step 53 / 60 - Progress: 88%
+2024-10-27T00:29:53.599Z [INFO]: Initialization Frame: Step 54 / 60 - Progress: 90%
+2024-10-27T00:29:53.615Z [INFO]: Initialization Frame: Step 55 / 60 - Progress: 91%
+2024-10-27T00:29:53.630Z [INFO]: Initialization Frame: Step 56 / 60 - Progress: 93%
+2024-10-27T00:29:53.650Z [INFO]: Initialization Frame: Step 57 / 60 - Progress: 95%
+2024-10-27T00:29:53.665Z [INFO]: Initialization Frame: Step 58 / 60 - Progress: 96%
+2024-10-27T00:29:53.680Z [INFO]: Initialization Frame: Step 59 / 60 - Progress: 98%
+2024-10-27T00:29:53.696Z [INFO]: Initialization Frame: Step 60 / 60 - Progress: 100%
+2024-10-27T00:29:53.712Z [INFO]: Scanning Frame: Step 0 / 100 - scanLineY: 200
+2024-10-27T00:29:53.731Z [INFO]: Scanning Frame: Step 1 / 100 - scanLineY: 204
+2024-10-27T00:29:53.750Z [INFO]: Scanning Frame: Step 2 / 100 - scanLineY: 208
+2024-10-27T00:29:53.769Z [INFO]: Scanning Frame: Step 3 / 100 - scanLineY: 212
+2024-10-27T00:29:53.788Z [INFO]: Scanning Frame: Step 4 / 100 - scanLineY: 216
+2024-10-27T00:29:53.806Z [INFO]: Scanning Frame: Step 5 / 100 - scanLineY: 220
+2024-10-27T00:29:53.825Z [INFO]: Scanning Frame: Step 6 / 100 - scanLineY: 224
+2024-10-27T00:29:53.846Z [INFO]: Scanning Frame: Step 7 / 100 - scanLineY: 228
+2024-10-27T00:29:53.869Z [INFO]: Scanning Frame: Step 8 / 100 - scanLineY: 232
+2024-10-27T00:29:53.889Z [INFO]: Scanning Frame: Step 9 / 100 - scanLineY: 236
+2024-10-27T00:29:53.923Z [INFO]: Scanning Frame: Step 10 / 100 - scanLineY: 240
+2024-10-27T00:29:53.943Z [INFO]: Scanning Frame: Step 11 / 100 - scanLineY: 244
+2024-10-27T00:29:53.961Z [INFO]: Scanning Frame: Step 12 / 100 - scanLineY: 248
+2024-10-27T00:29:53.979Z [INFO]: Scanning Frame: Step 13 / 100 - scanLineY: 252
+2024-10-27T00:29:53.996Z [INFO]: Scanning Frame: Step 14 / 100 - scanLineY: 256
+2024-10-27T00:29:54.013Z [INFO]: Scanning Frame: Step 15 / 100 - scanLineY: 260
+2024-10-27T00:29:54.031Z [INFO]: Scanning Frame: Step 16 / 100 - scanLineY: 264
+2024-10-27T00:29:54.050Z [INFO]: Scanning Frame: Step 17 / 100 - scanLineY: 268
+2024-10-27T00:29:54.068Z [INFO]: Scanning Frame: Step 18 / 100 - scanLineY: 272
+2024-10-27T00:29:54.089Z [INFO]: Scanning Frame: Step 19 / 100 - scanLineY: 276
+2024-10-27T00:29:54.109Z [INFO]: Scanning Frame: Step 20 / 100 - scanLineY: 280
+2024-10-27T00:29:54.126Z [INFO]: Scanning Frame: Step 21 / 100 - scanLineY: 284
+2024-10-27T00:29:54.147Z [INFO]: Scanning Frame: Step 22 / 100 - scanLineY: 288
+2024-10-27T00:29:54.164Z [INFO]: Scanning Frame: Step 23 / 100 - scanLineY: 292
+2024-10-27T00:29:54.181Z [INFO]: Scanning Frame: Step 24 / 100 - scanLineY: 296
+2024-10-27T00:29:54.199Z [INFO]: Scanning Frame: Step 25 / 100 - scanLineY: 300
+2024-10-27T00:29:54.217Z [INFO]: Scanning Frame: Step 26 / 100 - scanLineY: 304
+2024-10-27T00:29:54.235Z [INFO]: Scanning Frame: Step 27 / 100 - scanLineY: 308
+2024-10-27T00:29:54.254Z [INFO]: Scanning Frame: Step 28 / 100 - scanLineY: 312
+2024-10-27T00:29:54.273Z [INFO]: Scanning Frame: Step 29 / 100 - scanLineY: 316
+2024-10-27T00:29:54.293Z [INFO]: Scanning Frame: Step 30 / 100 - scanLineY: 320
+2024-10-27T00:29:54.311Z [INFO]: Scanning Frame: Step 31 / 100 - scanLineY: 324
+2024-10-27T00:29:54.328Z [INFO]: Scanning Frame: Step 32 / 100 - scanLineY: 328
+2024-10-27T00:29:54.347Z [INFO]: Scanning Frame: Step 33 / 100 - scanLineY: 332
+2024-10-27T00:29:54.365Z [INFO]: Scanning Frame: Step 34 / 100 - scanLineY: 336
+2024-10-27T00:29:54.383Z [INFO]: Scanning Frame: Step 35 / 100 - scanLineY: 340
+2024-10-27T00:29:54.401Z [INFO]: Scanning Frame: Step 36 / 100 - scanLineY: 344
+2024-10-27T00:29:54.418Z [INFO]: Scanning Frame: Step 37 / 100 - scanLineY: 348
+2024-10-27T00:29:54.437Z [INFO]: Scanning Frame: Step 38 / 100 - scanLineY: 352
+2024-10-27T00:29:54.456Z [INFO]: Scanning Frame: Step 39 / 100 - scanLineY: 356
+2024-10-27T00:29:54.475Z [INFO]: Scanning Frame: Step 40 / 100 - scanLineY: 360
+2024-10-27T00:29:54.493Z [INFO]: Scanning Frame: Step 41 / 100 - scanLineY: 364
+2024-10-27T00:29:54.510Z [INFO]: Scanning Frame: Step 42 / 100 - scanLineY: 368
+2024-10-27T00:29:54.528Z [INFO]: Scanning Frame: Step 43 / 100 - scanLineY: 372
+2024-10-27T00:29:54.548Z [INFO]: Scanning Frame: Step 44 / 100 - scanLineY: 376
+2024-10-27T00:29:54.566Z [INFO]: Scanning Frame: Step 45 / 100 - scanLineY: 380
+2024-10-27T00:29:54.584Z [INFO]: Scanning Frame: Step 46 / 100 - scanLineY: 384
+2024-10-27T00:29:54.602Z [INFO]: Scanning Frame: Step 47 / 100 - scanLineY: 388
+2024-10-27T00:29:54.620Z [INFO]: Scanning Frame: Step 48 / 100 - scanLineY: 392
+2024-10-27T00:29:54.639Z [INFO]: Scanning Frame: Step 49 / 100 - scanLineY: 396
+2024-10-27T00:29:54.656Z [INFO]: Scanning Frame: Step 50 / 100 - scanLineY: 400
+2024-10-27T00:29:54.673Z [INFO]: Scanning Frame: Step 51 / 100 - scanLineY: 404
+2024-10-27T00:29:54.692Z [INFO]: Scanning Frame: Step 52 / 100 - scanLineY: 408
+2024-10-27T00:29:54.709Z [INFO]: Scanning Frame: Step 53 / 100 - scanLineY: 412
+2024-10-27T00:29:54.726Z [INFO]: Scanning Frame: Step 54 / 100 - scanLineY: 416
+2024-10-27T00:29:54.744Z [INFO]: Scanning Frame: Step 55 / 100 - scanLineY: 420
+2024-10-27T00:29:54.761Z [INFO]: Scanning Frame: Step 56 / 100 - scanLineY: 424
+2024-10-27T00:29:54.780Z [INFO]: Scanning Frame: Step 57 / 100 - scanLineY: 428
+2024-10-27T00:29:54.798Z [INFO]: Scanning Frame: Step 58 / 100 - scanLineY: 432
+2024-10-27T00:29:54.816Z [INFO]: Scanning Frame: Step 59 / 100 - scanLineY: 436
+2024-10-27T00:29:54.837Z [INFO]: Scanning Frame: Step 60 / 100 - scanLineY: 440
+2024-10-27T00:29:54.858Z [INFO]: Scanning Frame: Step 61 / 100 - scanLineY: 444
+2024-10-27T00:29:54.877Z [INFO]: Scanning Frame: Step 62 / 100 - scanLineY: 448
+2024-10-27T00:29:54.896Z [INFO]: Scanning Frame: Step 63 / 100 - scanLineY: 452
+2024-10-27T00:29:54.915Z [INFO]: Scanning Frame: Step 64 / 100 - scanLineY: 456
+2024-10-27T00:29:54.934Z [INFO]: Scanning Frame: Step 65 / 100 - scanLineY: 460
+2024-10-27T00:29:54.951Z [INFO]: Scanning Frame: Step 66 / 100 - scanLineY: 464
+2024-10-27T00:29:54.970Z [INFO]: Scanning Frame: Step 67 / 100 - scanLineY: 468
+2024-10-27T00:29:54.987Z [INFO]: Scanning Frame: Step 68 / 100 - scanLineY: 472
+2024-10-27T00:29:55.005Z [INFO]: Scanning Frame: Step 69 / 100 - scanLineY: 476
+2024-10-27T00:29:55.023Z [INFO]: Scanning Frame: Step 70 / 100 - scanLineY: 480
+2024-10-27T00:29:55.041Z [INFO]: Scanning Frame: Step 71 / 100 - scanLineY: 484
+2024-10-27T00:29:55.058Z [INFO]: Scanning Frame: Step 72 / 100 - scanLineY: 488
+2024-10-27T00:29:55.078Z [INFO]: Scanning Frame: Step 73 / 100 - scanLineY: 492
+2024-10-27T00:29:55.095Z [INFO]: Scanning Frame: Step 74 / 100 - scanLineY: 496
+2024-10-27T00:29:55.113Z [INFO]: Scanning Frame: Step 75 / 100 - scanLineY: 500
+2024-10-27T00:29:55.132Z [INFO]: Scanning Frame: Step 76 / 100 - scanLineY: 504
+2024-10-27T00:29:55.150Z [INFO]: Scanning Frame: Step 77 / 100 - scanLineY: 508
+2024-10-27T00:29:55.168Z [INFO]: Scanning Frame: Step 78 / 100 - scanLineY: 512
+2024-10-27T00:29:55.188Z [INFO]: Scanning Frame: Step 79 / 100 - scanLineY: 516
+2024-10-27T00:29:55.205Z [INFO]: Scanning Frame: Step 80 / 100 - scanLineY: 520
+2024-10-27T00:29:55.222Z [INFO]: Scanning Frame: Step 81 / 100 - scanLineY: 524
+2024-10-27T00:29:55.242Z [INFO]: Scanning Frame: Step 82 / 100 - scanLineY: 528
+2024-10-27T00:29:55.259Z [INFO]: Scanning Frame: Step 83 / 100 - scanLineY: 532
+2024-10-27T00:29:55.277Z [INFO]: Scanning Frame: Step 84 / 100 - scanLineY: 536
+2024-10-27T00:29:55.295Z [INFO]: Scanning Frame: Step 85 / 100 - scanLineY: 540
+2024-10-27T00:29:55.312Z [INFO]: Scanning Frame: Step 86 / 100 - scanLineY: 544
+2024-10-27T00:29:55.330Z [INFO]: Scanning Frame: Step 87 / 100 - scanLineY: 548
+2024-10-27T00:29:55.347Z [INFO]: Scanning Frame: Step 88 / 100 - scanLineY: 552
+2024-10-27T00:29:55.364Z [INFO]: Scanning Frame: Step 89 / 100 - scanLineY: 556
+2024-10-27T00:29:55.382Z [INFO]: Scanning Frame: Step 90 / 100 - scanLineY: 560
+2024-10-27T00:29:55.400Z [INFO]: Scanning Frame: Step 91 / 100 - scanLineY: 564
+2024-10-27T00:29:55.418Z [INFO]: Scanning Frame: Step 92 / 100 - scanLineY: 568
+2024-10-27T00:29:55.436Z [INFO]: Scanning Frame: Step 93 / 100 - scanLineY: 572
+2024-10-27T00:29:55.454Z [INFO]: Scanning Frame: Step 94 / 100 - scanLineY: 576
+2024-10-27T00:29:55.472Z [INFO]: Scanning Frame: Step 95 / 100 - scanLineY: 580
+2024-10-27T00:29:55.490Z [INFO]: Scanning Frame: Step 96 / 100 - scanLineY: 584
+2024-10-27T00:29:55.508Z [INFO]: Scanning Frame: Step 97 / 100 - scanLineY: 588
+2024-10-27T00:29:55.525Z [INFO]: Scanning Frame: Step 98 / 100 - scanLineY: 592
+2024-10-27T00:29:55.543Z [INFO]: Scanning Frame: Step 99 / 100 - scanLineY: 596
+2024-10-27T00:29:55.561Z [INFO]: Scanning Frame: Step 100 / 100 - scanLineY: 600
+2024-10-27T00:29:55.578Z [INFO]: Result Frame: Step 0 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.595Z [INFO]: Result Frame: Step 1 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.611Z [INFO]: Result Frame: Step 2 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.627Z [INFO]: Result Frame: Step 3 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.643Z [INFO]: Result Frame: Step 4 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.658Z [INFO]: Result Frame: Step 5 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.674Z [INFO]: Result Frame: Step 6 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.690Z [INFO]: Result Frame: Step 7 / 80 - Visible Lines: 0
+2024-10-27T00:29:55.706Z [INFO]: Result Frame: Step 8 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.723Z [INFO]: Result Frame: Step 9 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.741Z [INFO]: Result Frame: Step 10 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.759Z [INFO]: Result Frame: Step 11 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.777Z [INFO]: Result Frame: Step 12 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.795Z [INFO]: Result Frame: Step 13 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.812Z [INFO]: Result Frame: Step 14 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.833Z [INFO]: Result Frame: Step 15 / 80 - Visible Lines: 1
+2024-10-27T00:29:55.851Z [INFO]: Result Frame: Step 16 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.869Z [INFO]: Result Frame: Step 17 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.889Z [INFO]: Result Frame: Step 18 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.908Z [INFO]: Result Frame: Step 19 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.928Z [INFO]: Result Frame: Step 20 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.947Z [INFO]: Result Frame: Step 21 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.966Z [INFO]: Result Frame: Step 22 / 80 - Visible Lines: 2
+2024-10-27T00:29:55.983Z [INFO]: Result Frame: Step 23 / 80 - Visible Lines: 2
+2024-10-27T00:29:56.001Z [INFO]: Result Frame: Step 24 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.020Z [INFO]: Result Frame: Step 25 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.040Z [INFO]: Result Frame: Step 26 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.058Z [INFO]: Result Frame: Step 27 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.079Z [INFO]: Result Frame: Step 28 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.098Z [INFO]: Result Frame: Step 29 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.118Z [INFO]: Result Frame: Step 30 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.138Z [INFO]: Result Frame: Step 31 / 80 - Visible Lines: 3
+2024-10-27T00:29:56.157Z [INFO]: Result Frame: Step 32 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.178Z [INFO]: Result Frame: Step 33 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.200Z [INFO]: Result Frame: Step 34 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.221Z [INFO]: Result Frame: Step 35 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.241Z [INFO]: Result Frame: Step 36 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.262Z [INFO]: Result Frame: Step 37 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.284Z [INFO]: Result Frame: Step 38 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.304Z [INFO]: Result Frame: Step 39 / 80 - Visible Lines: 4
+2024-10-27T00:29:56.327Z [INFO]: Result Frame: Step 40 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.352Z [INFO]: Result Frame: Step 41 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.374Z [INFO]: Result Frame: Step 42 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.396Z [INFO]: Result Frame: Step 43 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.419Z [INFO]: Result Frame: Step 44 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.443Z [INFO]: Result Frame: Step 45 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.464Z [INFO]: Result Frame: Step 46 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.486Z [INFO]: Result Frame: Step 47 / 80 - Visible Lines: 5
+2024-10-27T00:29:56.508Z [INFO]: Result Frame: Step 48 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.532Z [INFO]: Result Frame: Step 49 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.555Z [INFO]: Result Frame: Step 50 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.578Z [INFO]: Result Frame: Step 51 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.601Z [INFO]: Result Frame: Step 52 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.625Z [INFO]: Result Frame: Step 53 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.649Z [INFO]: Result Frame: Step 54 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.674Z [INFO]: Result Frame: Step 55 / 80 - Visible Lines: 6
+2024-10-27T00:29:56.697Z [INFO]: Result Frame: Step 56 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.722Z [INFO]: Result Frame: Step 57 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.747Z [INFO]: Result Frame: Step 58 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.773Z [INFO]: Result Frame: Step 59 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.798Z [INFO]: Result Frame: Step 60 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.823Z [INFO]: Result Frame: Step 61 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.849Z [INFO]: Result Frame: Step 62 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.874Z [INFO]: Result Frame: Step 63 / 80 - Visible Lines: 7
+2024-10-27T00:29:56.899Z [INFO]: Result Frame: Step 64 / 80 - Visible Lines: 8
+2024-10-27T00:29:56.926Z [INFO]: Result Frame: Step 65 / 80 - Visible Lines: 8
+2024-10-27T00:29:56.952Z [INFO]: Result Frame: Step 66 / 80 - Visible Lines: 8
+2024-10-27T00:29:56.977Z [INFO]: Result Frame: Step 67 / 80 - Visible Lines: 8
+2024-10-27T00:29:57.003Z [INFO]: Result Frame: Step 68 / 80 - Visible Lines: 8
+2024-10-27T00:29:57.029Z [INFO]: Result Frame: Step 69 / 80 - Visible Lines: 8
+2024-10-27T00:29:57.056Z [INFO]: Result Frame: Step 70 / 80 - Visible Lines: 8
+2024-10-27T00:29:57.082Z [INFO]: Result Frame: Step 71 / 80 - Visible Lines: 8
+2024-10-27T00:29:57.108Z [INFO]: Result Frame: Step 72 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.136Z [INFO]: Result Frame: Step 73 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.164Z [INFO]: Result Frame: Step 74 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.192Z [INFO]: Result Frame: Step 75 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.220Z [INFO]: Result Frame: Step 76 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.249Z [INFO]: Result Frame: Step 77 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.277Z [INFO]: Result Frame: Step 78 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.307Z [INFO]: Result Frame: Step 79 / 80 - Visible Lines: 9
+2024-10-27T00:29:57.335Z [INFO]: Result Frame: Step 80 / 80 - Visible Lines: 10
+2024-10-27T00:29:59.889Z [INFO]: Scan completed successfully for mode: standard, location: current area, query: , detailed: false
+2024-10-27T00:32:19.350Z [INFO]: Generated scan result: - Atmospheric composition: 78% nitrogen, 21% oxygen, 0.04% carbon dioxide, trace amounts of other gases
+- Temperature readings: 290 Kelvin
+- Gravitational conditions: 1.0 standard gravity
+- Background radiation levels: within safe limits, 0.1 millirem/hour
+- Subspace field strength: stable, within normal parameters
+2024-10-27T00:32:19.381Z [INFO]: Initialization Frame: Step 0 / 60 - Progress: 0%
+2024-10-27T00:32:19.406Z [INFO]: Converted SVG to PNG: init_frame_0.png
+2024-10-27T00:32:19.406Z [INFO]: Initialization Frame: Step 1 / 60 - Progress: 1%
+2024-10-27T00:32:19.425Z [INFO]: Converted SVG to PNG: init_frame_1.png
+2024-10-27T00:32:19.425Z [INFO]: Initialization Frame: Step 2 / 60 - Progress: 3%
+2024-10-27T00:32:19.445Z [INFO]: Converted SVG to PNG: init_frame_2.png
+2024-10-27T00:32:19.445Z [INFO]: Initialization Frame: Step 3 / 60 - Progress: 5%
+2024-10-27T00:32:19.465Z [INFO]: Converted SVG to PNG: init_frame_3.png
+2024-10-27T00:32:19.465Z [INFO]: Initialization Frame: Step 4 / 60 - Progress: 6%
+2024-10-27T00:32:19.488Z [INFO]: Converted SVG to PNG: init_frame_4.png
+2024-10-27T00:32:19.489Z [INFO]: Initialization Frame: Step 5 / 60 - Progress: 8%
+2024-10-27T00:32:19.509Z [INFO]: Converted SVG to PNG: init_frame_5.png
+2024-10-27T00:32:19.509Z [INFO]: Initialization Frame: Step 6 / 60 - Progress: 10%
+2024-10-27T00:32:19.529Z [INFO]: Converted SVG to PNG: init_frame_6.png
+2024-10-27T00:32:19.529Z [INFO]: Initialization Frame: Step 7 / 60 - Progress: 11%
+2024-10-27T00:32:19.544Z [INFO]: Converted SVG to PNG: init_frame_7.png
+2024-10-27T00:32:19.544Z [INFO]: Initialization Frame: Step 8 / 60 - Progress: 13%
+2024-10-27T00:32:19.564Z [INFO]: Converted SVG to PNG: init_frame_8.png
+2024-10-27T00:32:19.564Z [INFO]: Initialization Frame: Step 9 / 60 - Progress: 15%
+2024-10-27T00:32:19.580Z [INFO]: Converted SVG to PNG: init_frame_9.png
+2024-10-27T00:32:19.580Z [INFO]: Initialization Frame: Step 10 / 60 - Progress: 16%
+2024-10-27T00:32:19.599Z [INFO]: Converted SVG to PNG: init_frame_10.png
+2024-10-27T00:32:19.600Z [INFO]: Initialization Frame: Step 11 / 60 - Progress: 18%
+2024-10-27T00:32:19.619Z [INFO]: Converted SVG to PNG: init_frame_11.png
+2024-10-27T00:32:19.619Z [INFO]: Initialization Frame: Step 12 / 60 - Progress: 20%
+2024-10-27T00:32:19.634Z [INFO]: Converted SVG to PNG: init_frame_12.png
+2024-10-27T00:32:19.634Z [INFO]: Initialization Frame: Step 13 / 60 - Progress: 21%
+2024-10-27T00:32:19.653Z [INFO]: Converted SVG to PNG: init_frame_13.png
+2024-10-27T00:32:19.654Z [INFO]: Initialization Frame: Step 14 / 60 - Progress: 23%
+2024-10-27T00:32:19.673Z [INFO]: Converted SVG to PNG: init_frame_14.png
+2024-10-27T00:32:19.673Z [INFO]: Initialization Frame: Step 15 / 60 - Progress: 25%
+2024-10-27T00:32:19.688Z [INFO]: Converted SVG to PNG: init_frame_15.png
+2024-10-27T00:32:19.688Z [INFO]: Initialization Frame: Step 16 / 60 - Progress: 26%
+2024-10-27T00:32:19.704Z [INFO]: Converted SVG to PNG: init_frame_16.png
+2024-10-27T00:32:19.704Z [INFO]: Initialization Frame: Step 17 / 60 - Progress: 28%
+2024-10-27T00:32:19.720Z [INFO]: Converted SVG to PNG: init_frame_17.png
+2024-10-27T00:32:19.720Z [INFO]: Initialization Frame: Step 18 / 60 - Progress: 30%
+2024-10-27T00:32:19.739Z [INFO]: Converted SVG to PNG: init_frame_18.png
+2024-10-27T00:32:19.740Z [INFO]: Initialization Frame: Step 19 / 60 - Progress: 31%
+2024-10-27T00:32:19.755Z [INFO]: Converted SVG to PNG: init_frame_19.png
+2024-10-27T00:32:19.755Z [INFO]: Initialization Frame: Step 20 / 60 - Progress: 33%
+2024-10-27T00:32:19.774Z [INFO]: Converted SVG to PNG: init_frame_20.png
+2024-10-27T00:32:19.774Z [INFO]: Initialization Frame: Step 21 / 60 - Progress: 35%
+2024-10-27T00:32:19.790Z [INFO]: Converted SVG to PNG: init_frame_21.png
+2024-10-27T00:32:19.790Z [INFO]: Initialization Frame: Step 22 / 60 - Progress: 36%
+2024-10-27T00:32:19.805Z [INFO]: Converted SVG to PNG: init_frame_22.png
+2024-10-27T00:32:19.805Z [INFO]: Initialization Frame: Step 23 / 60 - Progress: 38%
+2024-10-27T00:32:19.821Z [INFO]: Converted SVG to PNG: init_frame_23.png
+2024-10-27T00:32:19.821Z [INFO]: Initialization Frame: Step 24 / 60 - Progress: 40%
+2024-10-27T00:32:19.839Z [INFO]: Converted SVG to PNG: init_frame_24.png
+2024-10-27T00:32:19.840Z [INFO]: Initialization Frame: Step 25 / 60 - Progress: 41%
+2024-10-27T00:32:19.862Z [INFO]: Converted SVG to PNG: init_frame_25.png
+2024-10-27T00:32:19.862Z [INFO]: Initialization Frame: Step 26 / 60 - Progress: 43%
+2024-10-27T00:32:19.877Z [INFO]: Converted SVG to PNG: init_frame_26.png
+2024-10-27T00:32:19.878Z [INFO]: Initialization Frame: Step 27 / 60 - Progress: 45%
+2024-10-27T00:32:19.899Z [INFO]: Converted SVG to PNG: init_frame_27.png
+2024-10-27T00:32:19.899Z [INFO]: Initialization Frame: Step 28 / 60 - Progress: 46%
+2024-10-27T00:32:19.915Z [INFO]: Converted SVG to PNG: init_frame_28.png
+2024-10-27T00:32:19.915Z [INFO]: Initialization Frame: Step 29 / 60 - Progress: 48%
+2024-10-27T00:32:19.933Z [INFO]: Converted SVG to PNG: init_frame_29.png
+2024-10-27T00:32:19.933Z [INFO]: Initialization Frame: Step 30 / 60 - Progress: 50%
+2024-10-27T00:32:19.948Z [INFO]: Converted SVG to PNG: init_frame_30.png
+2024-10-27T00:32:19.948Z [INFO]: Initialization Frame: Step 31 / 60 - Progress: 51%
+2024-10-27T00:32:19.963Z [INFO]: Converted SVG to PNG: init_frame_31.png
+2024-10-27T00:32:19.963Z [INFO]: Initialization Frame: Step 32 / 60 - Progress: 53%
+2024-10-27T00:32:19.984Z [INFO]: Converted SVG to PNG: init_frame_32.png
+2024-10-27T00:32:19.984Z [INFO]: Initialization Frame: Step 33 / 60 - Progress: 55%
+2024-10-27T00:32:20.000Z [INFO]: Converted SVG to PNG: init_frame_33.png
+2024-10-27T00:32:20.000Z [INFO]: Initialization Frame: Step 34 / 60 - Progress: 56%
+2024-10-27T00:32:20.017Z [INFO]: Converted SVG to PNG: init_frame_34.png
+2024-10-27T00:32:20.017Z [INFO]: Initialization Frame: Step 35 / 60 - Progress: 58%
+2024-10-27T00:32:20.034Z [INFO]: Converted SVG to PNG: init_frame_35.png
+2024-10-27T00:32:20.034Z [INFO]: Initialization Frame: Step 36 / 60 - Progress: 60%
+2024-10-27T00:32:20.049Z [INFO]: Converted SVG to PNG: init_frame_36.png
+2024-10-27T00:32:20.049Z [INFO]: Initialization Frame: Step 37 / 60 - Progress: 61%
+2024-10-27T00:32:20.066Z [INFO]: Converted SVG to PNG: init_frame_37.png
+2024-10-27T00:32:20.066Z [INFO]: Initialization Frame: Step 38 / 60 - Progress: 63%
+2024-10-27T00:32:20.081Z [INFO]: Converted SVG to PNG: init_frame_38.png
+2024-10-27T00:32:20.081Z [INFO]: Initialization Frame: Step 39 / 60 - Progress: 65%
+2024-10-27T00:32:20.097Z [INFO]: Converted SVG to PNG: init_frame_39.png
+2024-10-27T00:32:20.097Z [INFO]: Initialization Frame: Step 40 / 60 - Progress: 66%
+2024-10-27T00:32:20.112Z [INFO]: Converted SVG to PNG: init_frame_40.png
+2024-10-27T00:32:20.112Z [INFO]: Initialization Frame: Step 41 / 60 - Progress: 68%
+2024-10-27T00:32:20.127Z [INFO]: Converted SVG to PNG: init_frame_41.png
+2024-10-27T00:32:20.127Z [INFO]: Initialization Frame: Step 42 / 60 - Progress: 70%
+2024-10-27T00:32:20.142Z [INFO]: Converted SVG to PNG: init_frame_42.png
+2024-10-27T00:32:20.142Z [INFO]: Initialization Frame: Step 43 / 60 - Progress: 71%
+2024-10-27T00:32:20.157Z [INFO]: Converted SVG to PNG: init_frame_43.png
+2024-10-27T00:32:20.157Z [INFO]: Initialization Frame: Step 44 / 60 - Progress: 73%
+2024-10-27T00:32:20.171Z [INFO]: Converted SVG to PNG: init_frame_44.png
+2024-10-27T00:32:20.171Z [INFO]: Initialization Frame: Step 45 / 60 - Progress: 75%
+2024-10-27T00:32:20.186Z [INFO]: Converted SVG to PNG: init_frame_45.png
+2024-10-27T00:32:20.186Z [INFO]: Initialization Frame: Step 46 / 60 - Progress: 76%
+2024-10-27T00:32:20.203Z [INFO]: Converted SVG to PNG: init_frame_46.png
+2024-10-27T00:32:20.203Z [INFO]: Initialization Frame: Step 47 / 60 - Progress: 78%
+2024-10-27T00:32:20.220Z [INFO]: Converted SVG to PNG: init_frame_47.png
+2024-10-27T00:32:20.221Z [INFO]: Initialization Frame: Step 48 / 60 - Progress: 80%
+2024-10-27T00:32:20.241Z [INFO]: Converted SVG to PNG: init_frame_48.png
+2024-10-27T00:32:20.241Z [INFO]: Initialization Frame: Step 49 / 60 - Progress: 81%
+2024-10-27T00:32:20.257Z [INFO]: Converted SVG to PNG: init_frame_49.png
+2024-10-27T00:32:20.258Z [INFO]: Initialization Frame: Step 50 / 60 - Progress: 83%
+2024-10-27T00:32:20.277Z [INFO]: Converted SVG to PNG: init_frame_50.png
+2024-10-27T00:32:20.277Z [INFO]: Initialization Frame: Step 51 / 60 - Progress: 85%
+2024-10-27T00:32:20.300Z [INFO]: Converted SVG to PNG: init_frame_51.png
+2024-10-27T00:32:20.300Z [INFO]: Initialization Frame: Step 52 / 60 - Progress: 86%
+2024-10-27T00:32:20.324Z [INFO]: Converted SVG to PNG: init_frame_52.png
+2024-10-27T00:32:20.324Z [INFO]: Initialization Frame: Step 53 / 60 - Progress: 88%
+2024-10-27T00:32:20.340Z [INFO]: Converted SVG to PNG: init_frame_53.png
+2024-10-27T00:32:20.341Z [INFO]: Initialization Frame: Step 54 / 60 - Progress: 90%
+2024-10-27T00:32:20.359Z [INFO]: Converted SVG to PNG: init_frame_54.png
+2024-10-27T00:32:20.359Z [INFO]: Initialization Frame: Step 55 / 60 - Progress: 91%
+2024-10-27T00:32:20.375Z [INFO]: Converted SVG to PNG: init_frame_55.png
+2024-10-27T00:32:20.375Z [INFO]: Initialization Frame: Step 56 / 60 - Progress: 93%
+2024-10-27T00:32:20.394Z [INFO]: Converted SVG to PNG: init_frame_56.png
+2024-10-27T00:32:20.394Z [INFO]: Initialization Frame: Step 57 / 60 - Progress: 95%
+2024-10-27T00:32:20.408Z [INFO]: Converted SVG to PNG: init_frame_57.png
+2024-10-27T00:32:20.408Z [INFO]: Initialization Frame: Step 58 / 60 - Progress: 96%
+2024-10-27T00:32:20.424Z [INFO]: Converted SVG to PNG: init_frame_58.png
+2024-10-27T00:32:20.424Z [INFO]: Initialization Frame: Step 59 / 60 - Progress: 98%
+2024-10-27T00:32:20.445Z [INFO]: Converted SVG to PNG: init_frame_59.png
+2024-10-27T00:32:20.445Z [INFO]: Initialization Frame: Step 60 / 60 - Progress: 100%
+2024-10-27T00:32:20.461Z [INFO]: Converted SVG to PNG: init_frame_60.png
+2024-10-27T00:32:20.462Z [INFO]: Scanning Frame: Step 0 / 100 - scanLineY: 200
+2024-10-27T00:32:20.479Z [INFO]: Converted SVG to PNG: scan_frame_0.png
+2024-10-27T00:32:20.479Z [INFO]: Scanning Frame: Step 1 / 100 - scanLineY: 204
+2024-10-27T00:32:20.498Z [INFO]: Converted SVG to PNG: scan_frame_1.png
+2024-10-27T00:32:20.498Z [INFO]: Scanning Frame: Step 2 / 100 - scanLineY: 208
+2024-10-27T00:32:20.519Z [INFO]: Converted SVG to PNG: scan_frame_2.png
+2024-10-27T00:32:20.519Z [INFO]: Scanning Frame: Step 3 / 100 - scanLineY: 212
+2024-10-27T00:32:20.537Z [INFO]: Converted SVG to PNG: scan_frame_3.png
+2024-10-27T00:32:20.537Z [INFO]: Scanning Frame: Step 4 / 100 - scanLineY: 216
+2024-10-27T00:32:20.560Z [INFO]: Converted SVG to PNG: scan_frame_4.png
+2024-10-27T00:32:20.560Z [INFO]: Scanning Frame: Step 5 / 100 - scanLineY: 220
+2024-10-27T00:32:20.581Z [INFO]: Converted SVG to PNG: scan_frame_5.png
+2024-10-27T00:32:20.581Z [INFO]: Scanning Frame: Step 6 / 100 - scanLineY: 224
+2024-10-27T00:32:20.600Z [INFO]: Converted SVG to PNG: scan_frame_6.png
+2024-10-27T00:32:20.600Z [INFO]: Scanning Frame: Step 7 / 100 - scanLineY: 228
+2024-10-27T00:32:20.619Z [INFO]: Converted SVG to PNG: scan_frame_7.png
+2024-10-27T00:32:20.619Z [INFO]: Scanning Frame: Step 8 / 100 - scanLineY: 232
+2024-10-27T00:32:20.639Z [INFO]: Converted SVG to PNG: scan_frame_8.png
+2024-10-27T00:32:20.639Z [INFO]: Scanning Frame: Step 9 / 100 - scanLineY: 236
+2024-10-27T00:32:20.657Z [INFO]: Converted SVG to PNG: scan_frame_9.png
+2024-10-27T00:32:20.657Z [INFO]: Scanning Frame: Step 10 / 100 - scanLineY: 240
+2024-10-27T00:32:20.674Z [INFO]: Converted SVG to PNG: scan_frame_10.png
+2024-10-27T00:32:20.674Z [INFO]: Scanning Frame: Step 11 / 100 - scanLineY: 244
+2024-10-27T00:32:20.692Z [INFO]: Converted SVG to PNG: scan_frame_11.png
+2024-10-27T00:32:20.693Z [INFO]: Scanning Frame: Step 12 / 100 - scanLineY: 248
+2024-10-27T00:32:20.708Z [INFO]: Converted SVG to PNG: scan_frame_12.png
+2024-10-27T00:32:20.709Z [INFO]: Scanning Frame: Step 13 / 100 - scanLineY: 252
+2024-10-27T00:32:20.725Z [INFO]: Converted SVG to PNG: scan_frame_13.png
+2024-10-27T00:32:20.725Z [INFO]: Scanning Frame: Step 14 / 100 - scanLineY: 256
+2024-10-27T00:32:20.744Z [INFO]: Converted SVG to PNG: scan_frame_14.png
+2024-10-27T00:32:20.744Z [INFO]: Scanning Frame: Step 15 / 100 - scanLineY: 260
+2024-10-27T00:32:20.762Z [INFO]: Converted SVG to PNG: scan_frame_15.png
+2024-10-27T00:32:20.762Z [INFO]: Scanning Frame: Step 16 / 100 - scanLineY: 264
+2024-10-27T00:32:20.781Z [INFO]: Converted SVG to PNG: scan_frame_16.png
+2024-10-27T00:32:20.781Z [INFO]: Scanning Frame: Step 17 / 100 - scanLineY: 268
+2024-10-27T00:32:20.798Z [INFO]: Converted SVG to PNG: scan_frame_17.png
+2024-10-27T00:32:20.798Z [INFO]: Scanning Frame: Step 18 / 100 - scanLineY: 272
+2024-10-27T00:32:20.817Z [INFO]: Converted SVG to PNG: scan_frame_18.png
+2024-10-27T00:32:20.817Z [INFO]: Scanning Frame: Step 19 / 100 - scanLineY: 276
+2024-10-27T00:32:20.835Z [INFO]: Converted SVG to PNG: scan_frame_19.png
+2024-10-27T00:32:20.836Z [INFO]: Scanning Frame: Step 20 / 100 - scanLineY: 280
+2024-10-27T00:32:20.852Z [INFO]: Converted SVG to PNG: scan_frame_20.png
+2024-10-27T00:32:20.852Z [INFO]: Scanning Frame: Step 21 / 100 - scanLineY: 284
+2024-10-27T00:32:20.868Z [INFO]: Converted SVG to PNG: scan_frame_21.png
+2024-10-27T00:32:20.868Z [INFO]: Scanning Frame: Step 22 / 100 - scanLineY: 288
+2024-10-27T00:32:20.886Z [INFO]: Converted SVG to PNG: scan_frame_22.png
+2024-10-27T00:32:20.886Z [INFO]: Scanning Frame: Step 23 / 100 - scanLineY: 292
+2024-10-27T00:32:20.902Z [INFO]: Converted SVG to PNG: scan_frame_23.png
+2024-10-27T00:32:20.902Z [INFO]: Scanning Frame: Step 24 / 100 - scanLineY: 296
+2024-10-27T00:32:20.920Z [INFO]: Converted SVG to PNG: scan_frame_24.png
+2024-10-27T00:32:20.921Z [INFO]: Scanning Frame: Step 25 / 100 - scanLineY: 300
+2024-10-27T00:32:20.939Z [INFO]: Converted SVG to PNG: scan_frame_25.png
+2024-10-27T00:32:20.939Z [INFO]: Scanning Frame: Step 26 / 100 - scanLineY: 304
+2024-10-27T00:32:20.958Z [INFO]: Converted SVG to PNG: scan_frame_26.png
+2024-10-27T00:32:20.959Z [INFO]: Scanning Frame: Step 27 / 100 - scanLineY: 308
+2024-10-27T00:32:20.975Z [INFO]: Converted SVG to PNG: scan_frame_27.png
+2024-10-27T00:32:20.975Z [INFO]: Scanning Frame: Step 28 / 100 - scanLineY: 312
+2024-10-27T00:32:20.994Z [INFO]: Converted SVG to PNG: scan_frame_28.png
+2024-10-27T00:32:20.995Z [INFO]: Scanning Frame: Step 29 / 100 - scanLineY: 316
+2024-10-27T00:32:21.014Z [INFO]: Converted SVG to PNG: scan_frame_29.png
+2024-10-27T00:32:21.014Z [INFO]: Scanning Frame: Step 30 / 100 - scanLineY: 320
+2024-10-27T00:32:21.030Z [INFO]: Converted SVG to PNG: scan_frame_30.png
+2024-10-27T00:32:21.030Z [INFO]: Scanning Frame: Step 31 / 100 - scanLineY: 324
+2024-10-27T00:32:21.047Z [INFO]: Converted SVG to PNG: scan_frame_31.png
+2024-10-27T00:32:21.047Z [INFO]: Scanning Frame: Step 32 / 100 - scanLineY: 328
+2024-10-27T00:32:21.063Z [INFO]: Converted SVG to PNG: scan_frame_32.png
+2024-10-27T00:32:21.063Z [INFO]: Scanning Frame: Step 33 / 100 - scanLineY: 332
+2024-10-27T00:32:21.079Z [INFO]: Converted SVG to PNG: scan_frame_33.png
+2024-10-27T00:32:21.079Z [INFO]: Scanning Frame: Step 34 / 100 - scanLineY: 336
+2024-10-27T00:32:21.095Z [INFO]: Converted SVG to PNG: scan_frame_34.png
+2024-10-27T00:32:21.095Z [INFO]: Scanning Frame: Step 35 / 100 - scanLineY: 340
+2024-10-27T00:32:21.111Z [INFO]: Converted SVG to PNG: scan_frame_35.png
+2024-10-27T00:32:21.111Z [INFO]: Scanning Frame: Step 36 / 100 - scanLineY: 344
+2024-10-27T00:32:21.129Z [INFO]: Converted SVG to PNG: scan_frame_36.png
+2024-10-27T00:32:21.129Z [INFO]: Scanning Frame: Step 37 / 100 - scanLineY: 348
+2024-10-27T00:32:21.145Z [INFO]: Converted SVG to PNG: scan_frame_37.png
+2024-10-27T00:32:21.145Z [INFO]: Scanning Frame: Step 38 / 100 - scanLineY: 352
+2024-10-27T00:32:21.161Z [INFO]: Converted SVG to PNG: scan_frame_38.png
+2024-10-27T00:32:21.162Z [INFO]: Scanning Frame: Step 39 / 100 - scanLineY: 356
+2024-10-27T00:32:21.178Z [INFO]: Converted SVG to PNG: scan_frame_39.png
+2024-10-27T00:32:21.179Z [INFO]: Scanning Frame: Step 40 / 100 - scanLineY: 360
+2024-10-27T00:32:21.196Z [INFO]: Converted SVG to PNG: scan_frame_40.png
+2024-10-27T00:32:21.196Z [INFO]: Scanning Frame: Step 41 / 100 - scanLineY: 364
+2024-10-27T00:32:21.213Z [INFO]: Converted SVG to PNG: scan_frame_41.png
+2024-10-27T00:32:21.213Z [INFO]: Scanning Frame: Step 42 / 100 - scanLineY: 368
+2024-10-27T00:32:21.230Z [INFO]: Converted SVG to PNG: scan_frame_42.png
+2024-10-27T00:32:21.230Z [INFO]: Scanning Frame: Step 43 / 100 - scanLineY: 372
+2024-10-27T00:32:21.247Z [INFO]: Converted SVG to PNG: scan_frame_43.png
+2024-10-27T00:32:21.247Z [INFO]: Scanning Frame: Step 44 / 100 - scanLineY: 376
+2024-10-27T00:32:21.265Z [INFO]: Converted SVG to PNG: scan_frame_44.png
+2024-10-27T00:32:21.266Z [INFO]: Scanning Frame: Step 45 / 100 - scanLineY: 380
+2024-10-27T00:32:21.283Z [INFO]: Converted SVG to PNG: scan_frame_45.png
+2024-10-27T00:32:21.283Z [INFO]: Scanning Frame: Step 46 / 100 - scanLineY: 384
+2024-10-27T00:32:21.301Z [INFO]: Converted SVG to PNG: scan_frame_46.png
+2024-10-27T00:32:21.301Z [INFO]: Scanning Frame: Step 47 / 100 - scanLineY: 388
+2024-10-27T00:32:21.317Z [INFO]: Converted SVG to PNG: scan_frame_47.png
+2024-10-27T00:32:21.317Z [INFO]: Scanning Frame: Step 48 / 100 - scanLineY: 392
+2024-10-27T00:32:21.333Z [INFO]: Converted SVG to PNG: scan_frame_48.png
+2024-10-27T00:32:21.333Z [INFO]: Scanning Frame: Step 49 / 100 - scanLineY: 396
+2024-10-27T00:32:21.350Z [INFO]: Converted SVG to PNG: scan_frame_49.png
+2024-10-27T00:32:21.350Z [INFO]: Scanning Frame: Step 50 / 100 - scanLineY: 400
+2024-10-27T00:32:21.367Z [INFO]: Converted SVG to PNG: scan_frame_50.png
+2024-10-27T00:32:21.367Z [INFO]: Scanning Frame: Step 51 / 100 - scanLineY: 404
+2024-10-27T00:32:21.383Z [INFO]: Converted SVG to PNG: scan_frame_51.png
+2024-10-27T00:32:21.383Z [INFO]: Scanning Frame: Step 52 / 100 - scanLineY: 408
+2024-10-27T00:32:21.398Z [INFO]: Converted SVG to PNG: scan_frame_52.png
+2024-10-27T00:32:21.398Z [INFO]: Scanning Frame: Step 53 / 100 - scanLineY: 412
+2024-10-27T00:32:21.414Z [INFO]: Converted SVG to PNG: scan_frame_53.png
+2024-10-27T00:32:21.415Z [INFO]: Scanning Frame: Step 54 / 100 - scanLineY: 416
+2024-10-27T00:32:21.431Z [INFO]: Converted SVG to PNG: scan_frame_54.png
+2024-10-27T00:32:21.431Z [INFO]: Scanning Frame: Step 55 / 100 - scanLineY: 420
+2024-10-27T00:32:21.449Z [INFO]: Converted SVG to PNG: scan_frame_55.png
+2024-10-27T00:32:21.449Z [INFO]: Scanning Frame: Step 56 / 100 - scanLineY: 424
+2024-10-27T00:32:21.465Z [INFO]: Converted SVG to PNG: scan_frame_56.png
+2024-10-27T00:32:21.465Z [INFO]: Scanning Frame: Step 57 / 100 - scanLineY: 428
+2024-10-27T00:32:21.482Z [INFO]: Converted SVG to PNG: scan_frame_57.png
+2024-10-27T00:32:21.482Z [INFO]: Scanning Frame: Step 58 / 100 - scanLineY: 432
+2024-10-27T00:32:21.498Z [INFO]: Converted SVG to PNG: scan_frame_58.png
+2024-10-27T00:32:21.498Z [INFO]: Scanning Frame: Step 59 / 100 - scanLineY: 436
+2024-10-27T00:32:21.515Z [INFO]: Converted SVG to PNG: scan_frame_59.png
+2024-10-27T00:32:21.515Z [INFO]: Scanning Frame: Step 60 / 100 - scanLineY: 440
+2024-10-27T00:32:21.531Z [INFO]: Converted SVG to PNG: scan_frame_60.png
+2024-10-27T00:32:21.531Z [INFO]: Scanning Frame: Step 61 / 100 - scanLineY: 444
+2024-10-27T00:32:21.548Z [INFO]: Converted SVG to PNG: scan_frame_61.png
+2024-10-27T00:32:21.548Z [INFO]: Scanning Frame: Step 62 / 100 - scanLineY: 448
+2024-10-27T00:32:21.565Z [INFO]: Converted SVG to PNG: scan_frame_62.png
+2024-10-27T00:32:21.565Z [INFO]: Scanning Frame: Step 63 / 100 - scanLineY: 452
+2024-10-27T00:32:21.582Z [INFO]: Converted SVG to PNG: scan_frame_63.png
+2024-10-27T00:32:21.582Z [INFO]: Scanning Frame: Step 64 / 100 - scanLineY: 456
+2024-10-27T00:32:21.599Z [INFO]: Converted SVG to PNG: scan_frame_64.png
+2024-10-27T00:32:21.599Z [INFO]: Scanning Frame: Step 65 / 100 - scanLineY: 460
+2024-10-27T00:32:21.616Z [INFO]: Converted SVG to PNG: scan_frame_65.png
+2024-10-27T00:32:21.616Z [INFO]: Scanning Frame: Step 66 / 100 - scanLineY: 464
+2024-10-27T00:32:21.633Z [INFO]: Converted SVG to PNG: scan_frame_66.png
+2024-10-27T00:32:21.634Z [INFO]: Scanning Frame: Step 67 / 100 - scanLineY: 468
+2024-10-27T00:32:21.650Z [INFO]: Converted SVG to PNG: scan_frame_67.png
+2024-10-27T00:32:21.650Z [INFO]: Scanning Frame: Step 68 / 100 - scanLineY: 472
+2024-10-27T00:32:21.666Z [INFO]: Converted SVG to PNG: scan_frame_68.png
+2024-10-27T00:32:21.666Z [INFO]: Scanning Frame: Step 69 / 100 - scanLineY: 476
+2024-10-27T00:32:21.682Z [INFO]: Converted SVG to PNG: scan_frame_69.png
+2024-10-27T00:32:21.682Z [INFO]: Scanning Frame: Step 70 / 100 - scanLineY: 480
+2024-10-27T00:32:21.699Z [INFO]: Converted SVG to PNG: scan_frame_70.png
+2024-10-27T00:32:21.699Z [INFO]: Scanning Frame: Step 71 / 100 - scanLineY: 484
+2024-10-27T00:32:21.716Z [INFO]: Converted SVG to PNG: scan_frame_71.png
+2024-10-27T00:32:21.716Z [INFO]: Scanning Frame: Step 72 / 100 - scanLineY: 488
+2024-10-27T00:32:21.732Z [INFO]: Converted SVG to PNG: scan_frame_72.png
+2024-10-27T00:32:21.732Z [INFO]: Scanning Frame: Step 73 / 100 - scanLineY: 492
+2024-10-27T00:32:21.749Z [INFO]: Converted SVG to PNG: scan_frame_73.png
+2024-10-27T00:32:21.750Z [INFO]: Scanning Frame: Step 74 / 100 - scanLineY: 496
+2024-10-27T00:32:21.767Z [INFO]: Converted SVG to PNG: scan_frame_74.png
+2024-10-27T00:32:21.767Z [INFO]: Scanning Frame: Step 75 / 100 - scanLineY: 500
+2024-10-27T00:32:21.783Z [INFO]: Converted SVG to PNG: scan_frame_75.png
+2024-10-27T00:32:21.784Z [INFO]: Scanning Frame: Step 76 / 100 - scanLineY: 504
+2024-10-27T00:32:21.800Z [INFO]: Converted SVG to PNG: scan_frame_76.png
+2024-10-27T00:32:21.800Z [INFO]: Scanning Frame: Step 77 / 100 - scanLineY: 508
+2024-10-27T00:32:21.815Z [INFO]: Converted SVG to PNG: scan_frame_77.png
+2024-10-27T00:32:21.816Z [INFO]: Scanning Frame: Step 78 / 100 - scanLineY: 512
+2024-10-27T00:32:21.833Z [INFO]: Converted SVG to PNG: scan_frame_78.png
+2024-10-27T00:32:21.833Z [INFO]: Scanning Frame: Step 79 / 100 - scanLineY: 516
+2024-10-27T00:32:21.849Z [INFO]: Converted SVG to PNG: scan_frame_79.png
+2024-10-27T00:32:21.849Z [INFO]: Scanning Frame: Step 80 / 100 - scanLineY: 520
+2024-10-27T00:32:21.865Z [INFO]: Converted SVG to PNG: scan_frame_80.png
+2024-10-27T00:32:21.865Z [INFO]: Scanning Frame: Step 81 / 100 - scanLineY: 524
+2024-10-27T00:32:21.882Z [INFO]: Converted SVG to PNG: scan_frame_81.png
+2024-10-27T00:32:21.882Z [INFO]: Scanning Frame: Step 82 / 100 - scanLineY: 528
+2024-10-27T00:32:21.898Z [INFO]: Converted SVG to PNG: scan_frame_82.png
+2024-10-27T00:32:21.898Z [INFO]: Scanning Frame: Step 83 / 100 - scanLineY: 532
+2024-10-27T00:32:21.915Z [INFO]: Converted SVG to PNG: scan_frame_83.png
+2024-10-27T00:32:21.915Z [INFO]: Scanning Frame: Step 84 / 100 - scanLineY: 536
+2024-10-27T00:32:21.931Z [INFO]: Converted SVG to PNG: scan_frame_84.png
+2024-10-27T00:32:21.931Z [INFO]: Scanning Frame: Step 85 / 100 - scanLineY: 540
+2024-10-27T00:32:21.947Z [INFO]: Converted SVG to PNG: scan_frame_85.png
+2024-10-27T00:32:21.947Z [INFO]: Scanning Frame: Step 86 / 100 - scanLineY: 544
+2024-10-27T00:32:21.964Z [INFO]: Converted SVG to PNG: scan_frame_86.png
+2024-10-27T00:32:21.964Z [INFO]: Scanning Frame: Step 87 / 100 - scanLineY: 548
+2024-10-27T00:32:21.980Z [INFO]: Converted SVG to PNG: scan_frame_87.png
+2024-10-27T00:32:21.981Z [INFO]: Scanning Frame: Step 88 / 100 - scanLineY: 552
+2024-10-27T00:32:21.996Z [INFO]: Converted SVG to PNG: scan_frame_88.png
+2024-10-27T00:32:21.997Z [INFO]: Scanning Frame: Step 89 / 100 - scanLineY: 556
+2024-10-27T00:32:22.013Z [INFO]: Converted SVG to PNG: scan_frame_89.png
+2024-10-27T00:32:22.013Z [INFO]: Scanning Frame: Step 90 / 100 - scanLineY: 560
+2024-10-27T00:32:22.029Z [INFO]: Converted SVG to PNG: scan_frame_90.png
+2024-10-27T00:32:22.029Z [INFO]: Scanning Frame: Step 91 / 100 - scanLineY: 564
+2024-10-27T00:32:22.048Z [INFO]: Converted SVG to PNG: scan_frame_91.png
+2024-10-27T00:32:22.048Z [INFO]: Scanning Frame: Step 92 / 100 - scanLineY: 568
+2024-10-27T00:32:22.065Z [INFO]: Converted SVG to PNG: scan_frame_92.png
+2024-10-27T00:32:22.065Z [INFO]: Scanning Frame: Step 93 / 100 - scanLineY: 572
+2024-10-27T00:32:22.082Z [INFO]: Converted SVG to PNG: scan_frame_93.png
+2024-10-27T00:32:22.082Z [INFO]: Scanning Frame: Step 94 / 100 - scanLineY: 576
+2024-10-27T00:32:22.099Z [INFO]: Converted SVG to PNG: scan_frame_94.png
+2024-10-27T00:32:22.099Z [INFO]: Scanning Frame: Step 95 / 100 - scanLineY: 580
+2024-10-27T00:32:22.116Z [INFO]: Converted SVG to PNG: scan_frame_95.png
+2024-10-27T00:32:22.116Z [INFO]: Scanning Frame: Step 96 / 100 - scanLineY: 584
+2024-10-27T00:32:22.132Z [INFO]: Converted SVG to PNG: scan_frame_96.png
+2024-10-27T00:32:22.133Z [INFO]: Scanning Frame: Step 97 / 100 - scanLineY: 588
+2024-10-27T00:32:22.149Z [INFO]: Converted SVG to PNG: scan_frame_97.png
+2024-10-27T00:32:22.150Z [INFO]: Scanning Frame: Step 98 / 100 - scanLineY: 592
+2024-10-27T00:32:22.166Z [INFO]: Converted SVG to PNG: scan_frame_98.png
+2024-10-27T00:32:22.166Z [INFO]: Scanning Frame: Step 99 / 100 - scanLineY: 596
+2024-10-27T00:32:22.183Z [INFO]: Converted SVG to PNG: scan_frame_99.png
+2024-10-27T00:32:22.183Z [INFO]: Scanning Frame: Step 100 / 100 - scanLineY: 600
+2024-10-27T00:32:22.199Z [INFO]: Converted SVG to PNG: scan_frame_100.png
+2024-10-27T00:32:22.199Z [INFO]: Result Frame: Step 0 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.214Z [INFO]: Converted SVG to PNG: result_frame_0.png
+2024-10-27T00:32:22.214Z [INFO]: Result Frame: Step 1 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.230Z [INFO]: Converted SVG to PNG: result_frame_1.png
+2024-10-27T00:32:22.230Z [INFO]: Result Frame: Step 2 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.245Z [INFO]: Converted SVG to PNG: result_frame_2.png
+2024-10-27T00:32:22.246Z [INFO]: Result Frame: Step 3 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.261Z [INFO]: Converted SVG to PNG: result_frame_3.png
+2024-10-27T00:32:22.262Z [INFO]: Result Frame: Step 4 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.277Z [INFO]: Converted SVG to PNG: result_frame_4.png
+2024-10-27T00:32:22.277Z [INFO]: Result Frame: Step 5 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.291Z [INFO]: Converted SVG to PNG: result_frame_5.png
+2024-10-27T00:32:22.291Z [INFO]: Result Frame: Step 6 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.306Z [INFO]: Converted SVG to PNG: result_frame_6.png
+2024-10-27T00:32:22.307Z [INFO]: Result Frame: Step 7 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.321Z [INFO]: Converted SVG to PNG: result_frame_7.png
+2024-10-27T00:32:22.321Z [INFO]: Result Frame: Step 8 / 80 - Visible Lines: 0
+2024-10-27T00:32:22.336Z [INFO]: Converted SVG to PNG: result_frame_8.png
+2024-10-27T00:32:22.336Z [INFO]: Result Frame: Step 9 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.353Z [INFO]: Converted SVG to PNG: result_frame_9.png
+2024-10-27T00:32:22.353Z [INFO]: Result Frame: Step 10 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.370Z [INFO]: Converted SVG to PNG: result_frame_10.png
+2024-10-27T00:32:22.371Z [INFO]: Result Frame: Step 11 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.387Z [INFO]: Converted SVG to PNG: result_frame_11.png
+2024-10-27T00:32:22.388Z [INFO]: Result Frame: Step 12 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.404Z [INFO]: Converted SVG to PNG: result_frame_12.png
+2024-10-27T00:32:22.404Z [INFO]: Result Frame: Step 13 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.421Z [INFO]: Converted SVG to PNG: result_frame_13.png
+2024-10-27T00:32:22.421Z [INFO]: Result Frame: Step 14 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.437Z [INFO]: Converted SVG to PNG: result_frame_14.png
+2024-10-27T00:32:22.437Z [INFO]: Result Frame: Step 15 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.454Z [INFO]: Converted SVG to PNG: result_frame_15.png
+2024-10-27T00:32:22.454Z [INFO]: Result Frame: Step 16 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.471Z [INFO]: Converted SVG to PNG: result_frame_16.png
+2024-10-27T00:32:22.471Z [INFO]: Result Frame: Step 17 / 80 - Visible Lines: 1
+2024-10-27T00:32:22.488Z [INFO]: Converted SVG to PNG: result_frame_17.png
+2024-10-27T00:32:22.488Z [INFO]: Result Frame: Step 18 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.506Z [INFO]: Converted SVG to PNG: result_frame_18.png
+2024-10-27T00:32:22.506Z [INFO]: Result Frame: Step 19 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.525Z [INFO]: Converted SVG to PNG: result_frame_19.png
+2024-10-27T00:32:22.525Z [INFO]: Result Frame: Step 20 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.543Z [INFO]: Converted SVG to PNG: result_frame_20.png
+2024-10-27T00:32:22.543Z [INFO]: Result Frame: Step 21 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.561Z [INFO]: Converted SVG to PNG: result_frame_21.png
+2024-10-27T00:32:22.561Z [INFO]: Result Frame: Step 22 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.579Z [INFO]: Converted SVG to PNG: result_frame_22.png
+2024-10-27T00:32:22.579Z [INFO]: Result Frame: Step 23 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.597Z [INFO]: Converted SVG to PNG: result_frame_23.png
+2024-10-27T00:32:22.597Z [INFO]: Result Frame: Step 24 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.614Z [INFO]: Converted SVG to PNG: result_frame_24.png
+2024-10-27T00:32:22.615Z [INFO]: Result Frame: Step 25 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.633Z [INFO]: Converted SVG to PNG: result_frame_25.png
+2024-10-27T00:32:22.633Z [INFO]: Result Frame: Step 26 / 80 - Visible Lines: 2
+2024-10-27T00:32:22.651Z [INFO]: Converted SVG to PNG: result_frame_26.png
+2024-10-27T00:32:22.651Z [INFO]: Result Frame: Step 27 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.670Z [INFO]: Converted SVG to PNG: result_frame_27.png
+2024-10-27T00:32:22.671Z [INFO]: Result Frame: Step 28 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.691Z [INFO]: Converted SVG to PNG: result_frame_28.png
+2024-10-27T00:32:22.691Z [INFO]: Result Frame: Step 29 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.711Z [INFO]: Converted SVG to PNG: result_frame_29.png
+2024-10-27T00:32:22.711Z [INFO]: Result Frame: Step 30 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.730Z [INFO]: Converted SVG to PNG: result_frame_30.png
+2024-10-27T00:32:22.731Z [INFO]: Result Frame: Step 31 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.750Z [INFO]: Converted SVG to PNG: result_frame_31.png
+2024-10-27T00:32:22.750Z [INFO]: Result Frame: Step 32 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.769Z [INFO]: Converted SVG to PNG: result_frame_32.png
+2024-10-27T00:32:22.770Z [INFO]: Result Frame: Step 33 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.789Z [INFO]: Converted SVG to PNG: result_frame_33.png
+2024-10-27T00:32:22.789Z [INFO]: Result Frame: Step 34 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.808Z [INFO]: Converted SVG to PNG: result_frame_34.png
+2024-10-27T00:32:22.808Z [INFO]: Result Frame: Step 35 / 80 - Visible Lines: 3
+2024-10-27T00:32:22.828Z [INFO]: Converted SVG to PNG: result_frame_35.png
+2024-10-27T00:32:22.828Z [INFO]: Result Frame: Step 36 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.849Z [INFO]: Converted SVG to PNG: result_frame_36.png
+2024-10-27T00:32:22.850Z [INFO]: Result Frame: Step 37 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.871Z [INFO]: Converted SVG to PNG: result_frame_37.png
+2024-10-27T00:32:22.871Z [INFO]: Result Frame: Step 38 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.896Z [INFO]: Converted SVG to PNG: result_frame_38.png
+2024-10-27T00:32:22.896Z [INFO]: Result Frame: Step 39 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.923Z [INFO]: Converted SVG to PNG: result_frame_39.png
+2024-10-27T00:32:22.923Z [INFO]: Result Frame: Step 40 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.945Z [INFO]: Converted SVG to PNG: result_frame_40.png
+2024-10-27T00:32:22.945Z [INFO]: Result Frame: Step 41 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.966Z [INFO]: Converted SVG to PNG: result_frame_41.png
+2024-10-27T00:32:22.966Z [INFO]: Result Frame: Step 42 / 80 - Visible Lines: 4
+2024-10-27T00:32:22.987Z [INFO]: Converted SVG to PNG: result_frame_42.png
+2024-10-27T00:32:22.987Z [INFO]: Result Frame: Step 43 / 80 - Visible Lines: 4
+2024-10-27T00:32:23.008Z [INFO]: Converted SVG to PNG: result_frame_43.png
+2024-10-27T00:32:23.009Z [INFO]: Result Frame: Step 44 / 80 - Visible Lines: 4
+2024-10-27T00:32:23.029Z [INFO]: Converted SVG to PNG: result_frame_44.png
+2024-10-27T00:32:23.029Z [INFO]: Result Frame: Step 45 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.052Z [INFO]: Converted SVG to PNG: result_frame_45.png
+2024-10-27T00:32:23.052Z [INFO]: Result Frame: Step 46 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.074Z [INFO]: Converted SVG to PNG: result_frame_46.png
+2024-10-27T00:32:23.074Z [INFO]: Result Frame: Step 47 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.096Z [INFO]: Converted SVG to PNG: result_frame_47.png
+2024-10-27T00:32:23.096Z [INFO]: Result Frame: Step 48 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.119Z [INFO]: Converted SVG to PNG: result_frame_48.png
+2024-10-27T00:32:23.119Z [INFO]: Result Frame: Step 49 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.141Z [INFO]: Converted SVG to PNG: result_frame_49.png
+2024-10-27T00:32:23.141Z [INFO]: Result Frame: Step 50 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.163Z [INFO]: Converted SVG to PNG: result_frame_50.png
+2024-10-27T00:32:23.163Z [INFO]: Result Frame: Step 51 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.191Z [INFO]: Converted SVG to PNG: result_frame_51.png
+2024-10-27T00:32:23.192Z [INFO]: Result Frame: Step 52 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.223Z [INFO]: Converted SVG to PNG: result_frame_52.png
+2024-10-27T00:32:23.224Z [INFO]: Result Frame: Step 53 / 80 - Visible Lines: 5
+2024-10-27T00:32:23.248Z [INFO]: Converted SVG to PNG: result_frame_53.png
+2024-10-27T00:32:23.249Z [INFO]: Result Frame: Step 54 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.274Z [INFO]: Converted SVG to PNG: result_frame_54.png
+2024-10-27T00:32:23.275Z [INFO]: Result Frame: Step 55 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.302Z [INFO]: Converted SVG to PNG: result_frame_55.png
+2024-10-27T00:32:23.302Z [INFO]: Result Frame: Step 56 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.325Z [INFO]: Converted SVG to PNG: result_frame_56.png
+2024-10-27T00:32:23.325Z [INFO]: Result Frame: Step 57 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.350Z [INFO]: Converted SVG to PNG: result_frame_57.png
+2024-10-27T00:32:23.350Z [INFO]: Result Frame: Step 58 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.376Z [INFO]: Converted SVG to PNG: result_frame_58.png
+2024-10-27T00:32:23.376Z [INFO]: Result Frame: Step 59 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.402Z [INFO]: Converted SVG to PNG: result_frame_59.png
+2024-10-27T00:32:23.402Z [INFO]: Result Frame: Step 60 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.428Z [INFO]: Converted SVG to PNG: result_frame_60.png
+2024-10-27T00:32:23.428Z [INFO]: Result Frame: Step 61 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.452Z [INFO]: Converted SVG to PNG: result_frame_61.png
+2024-10-27T00:32:23.453Z [INFO]: Result Frame: Step 62 / 80 - Visible Lines: 6
+2024-10-27T00:32:23.476Z [INFO]: Converted SVG to PNG: result_frame_62.png
+2024-10-27T00:32:23.476Z [INFO]: Result Frame: Step 63 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.502Z [INFO]: Converted SVG to PNG: result_frame_63.png
+2024-10-27T00:32:23.502Z [INFO]: Result Frame: Step 64 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.529Z [INFO]: Converted SVG to PNG: result_frame_64.png
+2024-10-27T00:32:23.529Z [INFO]: Result Frame: Step 65 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.553Z [INFO]: Converted SVG to PNG: result_frame_65.png
+2024-10-27T00:32:23.554Z [INFO]: Result Frame: Step 66 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.580Z [INFO]: Converted SVG to PNG: result_frame_66.png
+2024-10-27T00:32:23.580Z [INFO]: Result Frame: Step 67 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.606Z [INFO]: Converted SVG to PNG: result_frame_67.png
+2024-10-27T00:32:23.606Z [INFO]: Result Frame: Step 68 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.632Z [INFO]: Converted SVG to PNG: result_frame_68.png
+2024-10-27T00:32:23.632Z [INFO]: Result Frame: Step 69 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.658Z [INFO]: Converted SVG to PNG: result_frame_69.png
+2024-10-27T00:32:23.658Z [INFO]: Result Frame: Step 70 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.683Z [INFO]: Converted SVG to PNG: result_frame_70.png
+2024-10-27T00:32:23.683Z [INFO]: Result Frame: Step 71 / 80 - Visible Lines: 7
+2024-10-27T00:32:23.709Z [INFO]: Converted SVG to PNG: result_frame_71.png
+2024-10-27T00:32:23.709Z [INFO]: Result Frame: Step 72 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.737Z [INFO]: Converted SVG to PNG: result_frame_72.png
+2024-10-27T00:32:23.737Z [INFO]: Result Frame: Step 73 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.764Z [INFO]: Converted SVG to PNG: result_frame_73.png
+2024-10-27T00:32:23.764Z [INFO]: Result Frame: Step 74 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.791Z [INFO]: Converted SVG to PNG: result_frame_74.png
+2024-10-27T00:32:23.791Z [INFO]: Result Frame: Step 75 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.826Z [INFO]: Converted SVG to PNG: result_frame_75.png
+2024-10-27T00:32:23.826Z [INFO]: Result Frame: Step 76 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.855Z [INFO]: Converted SVG to PNG: result_frame_76.png
+2024-10-27T00:32:23.855Z [INFO]: Result Frame: Step 77 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.883Z [INFO]: Converted SVG to PNG: result_frame_77.png
+2024-10-27T00:32:23.883Z [INFO]: Result Frame: Step 78 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.913Z [INFO]: Converted SVG to PNG: result_frame_78.png
+2024-10-27T00:32:23.913Z [INFO]: Result Frame: Step 79 / 80 - Visible Lines: 8
+2024-10-27T00:32:23.941Z [INFO]: Converted SVG to PNG: result_frame_79.png
+2024-10-27T00:32:23.941Z [INFO]: Result Frame: Step 80 / 80 - Visible Lines: 9
+2024-10-27T00:32:23.969Z [INFO]: Converted SVG to PNG: result_frame_80.png
+2024-10-27T00:32:23.970Z [INFO]: Created temporary directory: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0
+2024-10-27T00:32:23.970Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00000.png
+2024-10-27T00:32:23.970Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00001.png
+2024-10-27T00:32:23.971Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00002.png
+2024-10-27T00:32:23.971Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00003.png
+2024-10-27T00:32:23.972Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00004.png
+2024-10-27T00:32:23.972Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00005.png
+2024-10-27T00:32:23.972Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00006.png
+2024-10-27T00:32:23.972Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00007.png
+2024-10-27T00:32:23.973Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00008.png
+2024-10-27T00:32:23.973Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00009.png
+2024-10-27T00:32:23.973Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00010.png
+2024-10-27T00:32:23.973Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00011.png
+2024-10-27T00:32:23.974Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00012.png
+2024-10-27T00:32:23.974Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00013.png
+2024-10-27T00:32:23.974Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00014.png
+2024-10-27T00:32:23.975Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00015.png
+2024-10-27T00:32:23.975Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00016.png
+2024-10-27T00:32:23.975Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00017.png
+2024-10-27T00:32:23.976Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00018.png
+2024-10-27T00:32:23.976Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00019.png
+2024-10-27T00:32:23.976Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00020.png
+2024-10-27T00:32:23.976Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00021.png
+2024-10-27T00:32:23.977Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00022.png
+2024-10-27T00:32:23.977Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00023.png
+2024-10-27T00:32:23.977Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00024.png
+2024-10-27T00:32:23.977Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00025.png
+2024-10-27T00:32:23.978Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00026.png
+2024-10-27T00:32:23.978Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00027.png
+2024-10-27T00:32:23.978Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00028.png
+2024-10-27T00:32:23.978Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00029.png
+2024-10-27T00:32:23.979Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00030.png
+2024-10-27T00:32:23.979Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00031.png
+2024-10-27T00:32:23.979Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00032.png
+2024-10-27T00:32:23.980Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00033.png
+2024-10-27T00:32:23.980Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00034.png
+2024-10-27T00:32:23.981Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00035.png
+2024-10-27T00:32:23.981Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00036.png
+2024-10-27T00:32:23.981Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00037.png
+2024-10-27T00:32:23.982Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00038.png
+2024-10-27T00:32:23.982Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00039.png
+2024-10-27T00:32:23.982Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00040.png
+2024-10-27T00:32:23.983Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00041.png
+2024-10-27T00:32:23.983Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00042.png
+2024-10-27T00:32:23.983Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00043.png
+2024-10-27T00:32:23.983Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00044.png
+2024-10-27T00:32:23.984Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00045.png
+2024-10-27T00:32:23.984Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00046.png
+2024-10-27T00:32:23.984Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00047.png
+2024-10-27T00:32:23.984Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00048.png
+2024-10-27T00:32:23.985Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00049.png
+2024-10-27T00:32:23.985Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00050.png
+2024-10-27T00:32:23.985Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00051.png
+2024-10-27T00:32:23.985Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00052.png
+2024-10-27T00:32:23.986Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00053.png
+2024-10-27T00:32:23.986Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00054.png
+2024-10-27T00:32:23.986Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00055.png
+2024-10-27T00:32:23.987Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00056.png
+2024-10-27T00:32:23.987Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00057.png
+2024-10-27T00:32:23.987Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00058.png
+2024-10-27T00:32:23.988Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00059.png
+2024-10-27T00:32:23.988Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00060.png
+2024-10-27T00:32:23.988Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00061.png
+2024-10-27T00:32:23.988Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00062.png
+2024-10-27T00:32:23.989Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00063.png
+2024-10-27T00:32:23.989Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00064.png
+2024-10-27T00:32:23.989Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00065.png
+2024-10-27T00:32:23.989Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00066.png
+2024-10-27T00:32:23.990Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00067.png
+2024-10-27T00:32:23.990Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00068.png
+2024-10-27T00:32:23.990Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00069.png
+2024-10-27T00:32:23.991Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00070.png
+2024-10-27T00:32:23.991Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00071.png
+2024-10-27T00:32:23.991Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00072.png
+2024-10-27T00:32:23.991Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00073.png
+2024-10-27T00:32:23.992Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00074.png
+2024-10-27T00:32:23.992Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00075.png
+2024-10-27T00:32:23.992Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00076.png
+2024-10-27T00:32:23.992Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00077.png
+2024-10-27T00:32:23.993Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00078.png
+2024-10-27T00:32:23.993Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00079.png
+2024-10-27T00:32:23.994Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00080.png
+2024-10-27T00:32:23.994Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00081.png
+2024-10-27T00:32:23.994Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00082.png
+2024-10-27T00:32:23.995Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00083.png
+2024-10-27T00:32:23.995Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00084.png
+2024-10-27T00:32:23.996Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00085.png
+2024-10-27T00:32:23.996Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00086.png
+2024-10-27T00:32:23.996Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00087.png
+2024-10-27T00:32:23.997Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00088.png
+2024-10-27T00:32:23.997Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00089.png
+2024-10-27T00:32:23.997Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00090.png
+2024-10-27T00:32:23.997Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00091.png
+2024-10-27T00:32:23.998Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00092.png
+2024-10-27T00:32:23.998Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00093.png
+2024-10-27T00:32:23.998Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00094.png
+2024-10-27T00:32:23.999Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00095.png
+2024-10-27T00:32:23.999Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00096.png
+2024-10-27T00:32:23.999Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00097.png
+2024-10-27T00:32:24.000Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00098.png
+2024-10-27T00:32:24.000Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00099.png
+2024-10-27T00:32:24.000Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00100.png
+2024-10-27T00:32:24.001Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00101.png
+2024-10-27T00:32:24.001Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00102.png
+2024-10-27T00:32:24.001Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00103.png
+2024-10-27T00:32:24.001Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00104.png
+2024-10-27T00:32:24.002Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00105.png
+2024-10-27T00:32:24.002Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00106.png
+2024-10-27T00:32:24.002Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00107.png
+2024-10-27T00:32:24.003Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00108.png
+2024-10-27T00:32:24.003Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00109.png
+2024-10-27T00:32:24.003Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00110.png
+2024-10-27T00:32:24.004Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00111.png
+2024-10-27T00:32:24.004Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00112.png
+2024-10-27T00:32:24.004Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00113.png
+2024-10-27T00:32:24.005Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00114.png
+2024-10-27T00:32:24.005Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00115.png
+2024-10-27T00:32:24.005Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00116.png
+2024-10-27T00:32:24.005Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00117.png
+2024-10-27T00:32:24.006Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00118.png
+2024-10-27T00:32:24.006Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00119.png
+2024-10-27T00:32:24.007Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00120.png
+2024-10-27T00:32:24.007Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00121.png
+2024-10-27T00:32:24.008Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00122.png
+2024-10-27T00:32:24.008Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00123.png
+2024-10-27T00:32:24.009Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00124.png
+2024-10-27T00:32:24.009Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00125.png
+2024-10-27T00:32:24.009Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00126.png
+2024-10-27T00:32:24.009Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00127.png
+2024-10-27T00:32:24.010Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00128.png
+2024-10-27T00:32:24.010Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00129.png
+2024-10-27T00:32:24.010Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00130.png
+2024-10-27T00:32:24.011Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00131.png
+2024-10-27T00:32:24.011Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00132.png
+2024-10-27T00:32:24.011Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00133.png
+2024-10-27T00:32:24.012Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00134.png
+2024-10-27T00:32:24.012Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00135.png
+2024-10-27T00:32:24.012Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00136.png
+2024-10-27T00:32:24.013Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00137.png
+2024-10-27T00:32:24.013Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00138.png
+2024-10-27T00:32:24.013Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00139.png
+2024-10-27T00:32:24.013Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00140.png
+2024-10-27T00:32:24.014Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00141.png
+2024-10-27T00:32:24.014Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00142.png
+2024-10-27T00:32:24.014Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00143.png
+2024-10-27T00:32:24.015Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00144.png
+2024-10-27T00:32:24.015Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00145.png
+2024-10-27T00:32:24.015Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00146.png
+2024-10-27T00:32:24.016Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00147.png
+2024-10-27T00:32:24.016Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00148.png
+2024-10-27T00:32:24.016Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00149.png
+2024-10-27T00:32:24.016Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00150.png
+2024-10-27T00:32:24.017Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00151.png
+2024-10-27T00:32:24.017Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00152.png
+2024-10-27T00:32:24.017Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00153.png
+2024-10-27T00:32:24.017Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00154.png
+2024-10-27T00:32:24.018Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00155.png
+2024-10-27T00:32:24.018Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00156.png
+2024-10-27T00:32:24.018Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00157.png
+2024-10-27T00:32:24.018Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00158.png
+2024-10-27T00:32:24.019Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00159.png
+2024-10-27T00:32:24.019Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00160.png
+2024-10-27T00:32:24.019Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00161.png
+2024-10-27T00:32:24.020Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00162.png
+2024-10-27T00:32:24.020Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00163.png
+2024-10-27T00:32:24.021Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00164.png
+2024-10-27T00:32:24.021Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00165.png
+2024-10-27T00:32:24.021Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00166.png
+2024-10-27T00:32:24.022Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00167.png
+2024-10-27T00:32:24.022Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00168.png
+2024-10-27T00:32:24.022Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00169.png
+2024-10-27T00:32:24.023Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00170.png
+2024-10-27T00:32:24.023Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00171.png
+2024-10-27T00:32:24.023Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00172.png
+2024-10-27T00:32:24.023Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00173.png
+2024-10-27T00:32:24.024Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00174.png
+2024-10-27T00:32:24.024Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00175.png
+2024-10-27T00:32:24.024Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00176.png
+2024-10-27T00:32:24.024Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00177.png
+2024-10-27T00:32:24.025Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00178.png
+2024-10-27T00:32:24.025Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00179.png
+2024-10-27T00:32:24.025Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00180.png
+2024-10-27T00:32:24.025Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00181.png
+2024-10-27T00:32:24.026Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00182.png
+2024-10-27T00:32:24.026Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00183.png
+2024-10-27T00:32:24.026Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00184.png
+2024-10-27T00:32:24.026Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00185.png
+2024-10-27T00:32:24.026Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00186.png
+2024-10-27T00:32:24.027Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00187.png
+2024-10-27T00:32:24.027Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00188.png
+2024-10-27T00:32:24.027Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00189.png
+2024-10-27T00:32:24.027Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00190.png
+2024-10-27T00:32:24.028Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00191.png
+2024-10-27T00:32:24.028Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00192.png
+2024-10-27T00:32:24.028Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00193.png
+2024-10-27T00:32:24.028Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00194.png
+2024-10-27T00:32:24.028Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00195.png
+2024-10-27T00:32:24.029Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00196.png
+2024-10-27T00:32:24.029Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00197.png
+2024-10-27T00:32:24.029Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00198.png
+2024-10-27T00:32:24.029Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00199.png
+2024-10-27T00:32:24.030Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00200.png
+2024-10-27T00:32:24.030Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00201.png
+2024-10-27T00:32:24.031Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00202.png
+2024-10-27T00:32:24.031Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00203.png
+2024-10-27T00:32:24.031Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00204.png
+2024-10-27T00:32:24.032Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00205.png
+2024-10-27T00:32:24.032Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00206.png
+2024-10-27T00:32:24.033Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00207.png
+2024-10-27T00:32:24.033Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00208.png
+2024-10-27T00:32:24.033Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00209.png
+2024-10-27T00:32:24.034Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00210.png
+2024-10-27T00:32:24.034Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00211.png
+2024-10-27T00:32:24.035Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00212.png
+2024-10-27T00:32:24.035Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00213.png
+2024-10-27T00:32:24.036Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00214.png
+2024-10-27T00:32:24.036Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00215.png
+2024-10-27T00:32:24.036Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00216.png
+2024-10-27T00:32:24.037Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00217.png
+2024-10-27T00:32:24.037Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00218.png
+2024-10-27T00:32:24.037Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00219.png
+2024-10-27T00:32:24.038Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00220.png
+2024-10-27T00:32:24.038Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00221.png
+2024-10-27T00:32:24.038Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00222.png
+2024-10-27T00:32:24.038Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00223.png
+2024-10-27T00:32:24.038Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00224.png
+2024-10-27T00:32:24.039Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00225.png
+2024-10-27T00:32:24.039Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00226.png
+2024-10-27T00:32:24.039Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00227.png
+2024-10-27T00:32:24.039Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00228.png
+2024-10-27T00:32:24.040Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00229.png
+2024-10-27T00:32:24.040Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00230.png
+2024-10-27T00:32:24.041Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00231.png
+2024-10-27T00:32:24.041Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00232.png
+2024-10-27T00:32:24.041Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00233.png
+2024-10-27T00:32:24.042Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00234.png
+2024-10-27T00:32:24.042Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00235.png
+2024-10-27T00:32:24.043Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00236.png
+2024-10-27T00:32:24.043Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00237.png
+2024-10-27T00:32:24.043Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00238.png
+2024-10-27T00:32:24.044Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00239.png
+2024-10-27T00:32:24.044Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00240.png
+2024-10-27T00:32:24.044Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00241.png
+2024-10-27T00:32:24.044Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0\frame_00242.png
+2024-10-27T00:32:24.293Z [INFO]: FFmpeg started with command: ffmpeg -framerate 15 -i C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0/frame_%05d.png -y -c:v libx264 -preset medium -pix_fmt yuv420p -vf scale=1200:800 -movflags +faststart -b:v 800k -r 15 C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0/scan_video.mp4
+2024-10-27T00:32:25.046Z [INFO]: FFmpeg progress: 54.12%
+2024-10-27T00:32:25.497Z [INFO]: FFmpeg progress: 165.23%
+2024-10-27T00:32:25.535Z [INFO]: FFmpeg finished processing: C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0/scan_video.mp4
+2024-10-27T00:32:25.535Z [INFO]: Read video file into buffer: C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0/scan_video.mp4
+2024-10-27T00:32:25.821Z [INFO]: Cleaned up temporary files and directory: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_94ef9c5f-098b-484e-ba8c-f8be001698c0
+2024-10-27T00:32:26.441Z [INFO]: Scan completed successfully for mode: standard, location: current area, query: , detailed: false
+2024-10-27T00:41:47.278Z [INFO]: Generated scan result: - Atmospheric composition: 78% nitrogen, 21% oxygen, 0.04% carbon dioxide, trace amounts of other gases
+- Temperature readings: 290 Kelvin
+- Gravitational conditions: 1.0 standard gravity
+- Background radiation levels: within normal Federation safe levels
+- Subspace field strength: stable, no anomalies detected
+2024-10-27T00:41:47.325Z [INFO]: Initialization Frame: Step 0 / 60 - Progress: 0%
+2024-10-27T00:41:47.346Z [INFO]: Converted SVG to PNG: init_frame_0.png
+2024-10-27T00:41:47.346Z [INFO]: Initialization Frame: Step 1 / 60 - Progress: 1%
+2024-10-27T00:41:47.365Z [INFO]: Converted SVG to PNG: init_frame_1.png
+2024-10-27T00:41:47.365Z [INFO]: Initialization Frame: Step 2 / 60 - Progress: 3%
+2024-10-27T00:41:47.385Z [INFO]: Converted SVG to PNG: init_frame_2.png
+2024-10-27T00:41:47.385Z [INFO]: Initialization Frame: Step 3 / 60 - Progress: 5%
+2024-10-27T00:41:47.403Z [INFO]: Converted SVG to PNG: init_frame_3.png
+2024-10-27T00:41:47.403Z [INFO]: Initialization Frame: Step 4 / 60 - Progress: 6%
+2024-10-27T00:41:47.422Z [INFO]: Converted SVG to PNG: init_frame_4.png
+2024-10-27T00:41:47.422Z [INFO]: Initialization Frame: Step 5 / 60 - Progress: 8%
+2024-10-27T00:41:47.438Z [INFO]: Converted SVG to PNG: init_frame_5.png
+2024-10-27T00:41:47.438Z [INFO]: Initialization Frame: Step 6 / 60 - Progress: 10%
+2024-10-27T00:41:47.457Z [INFO]: Converted SVG to PNG: init_frame_6.png
+2024-10-27T00:41:47.457Z [INFO]: Initialization Frame: Step 7 / 60 - Progress: 11%
+2024-10-27T00:41:47.477Z [INFO]: Converted SVG to PNG: init_frame_7.png
+2024-10-27T00:41:47.477Z [INFO]: Initialization Frame: Step 8 / 60 - Progress: 13%
+2024-10-27T00:41:47.497Z [INFO]: Converted SVG to PNG: init_frame_8.png
+2024-10-27T00:41:47.498Z [INFO]: Initialization Frame: Step 9 / 60 - Progress: 15%
+2024-10-27T00:41:47.514Z [INFO]: Converted SVG to PNG: init_frame_9.png
+2024-10-27T00:41:47.514Z [INFO]: Initialization Frame: Step 10 / 60 - Progress: 16%
+2024-10-27T00:41:47.535Z [INFO]: Converted SVG to PNG: init_frame_10.png
+2024-10-27T00:41:47.535Z [INFO]: Initialization Frame: Step 11 / 60 - Progress: 18%
+2024-10-27T00:41:47.556Z [INFO]: Converted SVG to PNG: init_frame_11.png
+2024-10-27T00:41:47.556Z [INFO]: Initialization Frame: Step 12 / 60 - Progress: 20%
+2024-10-27T00:41:47.577Z [INFO]: Converted SVG to PNG: init_frame_12.png
+2024-10-27T00:41:47.577Z [INFO]: Initialization Frame: Step 13 / 60 - Progress: 21%
+2024-10-27T00:41:47.598Z [INFO]: Converted SVG to PNG: init_frame_13.png
+2024-10-27T00:41:47.598Z [INFO]: Initialization Frame: Step 14 / 60 - Progress: 23%
+2024-10-27T00:41:47.617Z [INFO]: Converted SVG to PNG: init_frame_14.png
+2024-10-27T00:41:47.618Z [INFO]: Initialization Frame: Step 15 / 60 - Progress: 25%
+2024-10-27T00:41:47.632Z [INFO]: Converted SVG to PNG: init_frame_15.png
+2024-10-27T00:41:47.632Z [INFO]: Initialization Frame: Step 16 / 60 - Progress: 26%
+2024-10-27T00:41:47.647Z [INFO]: Converted SVG to PNG: init_frame_16.png
+2024-10-27T00:41:47.647Z [INFO]: Initialization Frame: Step 17 / 60 - Progress: 28%
+2024-10-27T00:41:47.662Z [INFO]: Converted SVG to PNG: init_frame_17.png
+2024-10-27T00:41:47.662Z [INFO]: Initialization Frame: Step 18 / 60 - Progress: 30%
+2024-10-27T00:41:47.677Z [INFO]: Converted SVG to PNG: init_frame_18.png
+2024-10-27T00:41:47.677Z [INFO]: Initialization Frame: Step 19 / 60 - Progress: 31%
+2024-10-27T00:41:47.696Z [INFO]: Converted SVG to PNG: init_frame_19.png
+2024-10-27T00:41:47.696Z [INFO]: Initialization Frame: Step 20 / 60 - Progress: 33%
+2024-10-27T00:41:47.709Z [INFO]: Converted SVG to PNG: init_frame_20.png
+2024-10-27T00:41:47.710Z [INFO]: Initialization Frame: Step 21 / 60 - Progress: 35%
+2024-10-27T00:41:47.723Z [INFO]: Converted SVG to PNG: init_frame_21.png
+2024-10-27T00:41:47.724Z [INFO]: Initialization Frame: Step 22 / 60 - Progress: 36%
+2024-10-27T00:41:47.738Z [INFO]: Converted SVG to PNG: init_frame_22.png
+2024-10-27T00:41:47.738Z [INFO]: Initialization Frame: Step 23 / 60 - Progress: 38%
+2024-10-27T00:41:47.753Z [INFO]: Converted SVG to PNG: init_frame_23.png
+2024-10-27T00:41:47.753Z [INFO]: Initialization Frame: Step 24 / 60 - Progress: 40%
+2024-10-27T00:41:47.771Z [INFO]: Converted SVG to PNG: init_frame_24.png
+2024-10-27T00:41:47.771Z [INFO]: Initialization Frame: Step 25 / 60 - Progress: 41%
+2024-10-27T00:41:47.785Z [INFO]: Converted SVG to PNG: init_frame_25.png
+2024-10-27T00:41:47.786Z [INFO]: Initialization Frame: Step 26 / 60 - Progress: 43%
+2024-10-27T00:41:47.800Z [INFO]: Converted SVG to PNG: init_frame_26.png
+2024-10-27T00:41:47.800Z [INFO]: Initialization Frame: Step 27 / 60 - Progress: 45%
+2024-10-27T00:41:47.813Z [INFO]: Converted SVG to PNG: init_frame_27.png
+2024-10-27T00:41:47.814Z [INFO]: Initialization Frame: Step 28 / 60 - Progress: 46%
+2024-10-27T00:41:47.827Z [INFO]: Converted SVG to PNG: init_frame_28.png
+2024-10-27T00:41:47.827Z [INFO]: Initialization Frame: Step 29 / 60 - Progress: 48%
+2024-10-27T00:41:47.842Z [INFO]: Converted SVG to PNG: init_frame_29.png
+2024-10-27T00:41:47.842Z [INFO]: Initialization Frame: Step 30 / 60 - Progress: 50%
+2024-10-27T00:41:47.856Z [INFO]: Converted SVG to PNG: init_frame_30.png
+2024-10-27T00:41:47.856Z [INFO]: Initialization Frame: Step 31 / 60 - Progress: 51%
+2024-10-27T00:41:47.870Z [INFO]: Converted SVG to PNG: init_frame_31.png
+2024-10-27T00:41:47.870Z [INFO]: Initialization Frame: Step 32 / 60 - Progress: 53%
+2024-10-27T00:41:47.884Z [INFO]: Converted SVG to PNG: init_frame_32.png
+2024-10-27T00:41:47.884Z [INFO]: Initialization Frame: Step 33 / 60 - Progress: 55%
+2024-10-27T00:41:47.899Z [INFO]: Converted SVG to PNG: init_frame_33.png
+2024-10-27T00:41:47.900Z [INFO]: Initialization Frame: Step 34 / 60 - Progress: 56%
+2024-10-27T00:41:47.914Z [INFO]: Converted SVG to PNG: init_frame_34.png
+2024-10-27T00:41:47.914Z [INFO]: Initialization Frame: Step 35 / 60 - Progress: 58%
+2024-10-27T00:41:47.929Z [INFO]: Converted SVG to PNG: init_frame_35.png
+2024-10-27T00:41:47.929Z [INFO]: Initialization Frame: Step 36 / 60 - Progress: 60%
+2024-10-27T00:41:47.944Z [INFO]: Converted SVG to PNG: init_frame_36.png
+2024-10-27T00:41:47.944Z [INFO]: Initialization Frame: Step 37 / 60 - Progress: 61%
+2024-10-27T00:41:47.962Z [INFO]: Converted SVG to PNG: init_frame_37.png
+2024-10-27T00:41:47.962Z [INFO]: Initialization Frame: Step 38 / 60 - Progress: 63%
+2024-10-27T00:41:47.976Z [INFO]: Converted SVG to PNG: init_frame_38.png
+2024-10-27T00:41:47.976Z [INFO]: Initialization Frame: Step 39 / 60 - Progress: 65%
+2024-10-27T00:41:47.990Z [INFO]: Converted SVG to PNG: init_frame_39.png
+2024-10-27T00:41:47.990Z [INFO]: Initialization Frame: Step 40 / 60 - Progress: 66%
+2024-10-27T00:41:48.005Z [INFO]: Converted SVG to PNG: init_frame_40.png
+2024-10-27T00:41:48.005Z [INFO]: Initialization Frame: Step 41 / 60 - Progress: 68%
+2024-10-27T00:41:48.019Z [INFO]: Converted SVG to PNG: init_frame_41.png
+2024-10-27T00:41:48.019Z [INFO]: Initialization Frame: Step 42 / 60 - Progress: 70%
+2024-10-27T00:41:48.035Z [INFO]: Converted SVG to PNG: init_frame_42.png
+2024-10-27T00:41:48.035Z [INFO]: Initialization Frame: Step 43 / 60 - Progress: 71%
+2024-10-27T00:41:48.049Z [INFO]: Converted SVG to PNG: init_frame_43.png
+2024-10-27T00:41:48.049Z [INFO]: Initialization Frame: Step 44 / 60 - Progress: 73%
+2024-10-27T00:41:48.066Z [INFO]: Converted SVG to PNG: init_frame_44.png
+2024-10-27T00:41:48.066Z [INFO]: Initialization Frame: Step 45 / 60 - Progress: 75%
+2024-10-27T00:41:48.081Z [INFO]: Converted SVG to PNG: init_frame_45.png
+2024-10-27T00:41:48.081Z [INFO]: Initialization Frame: Step 46 / 60 - Progress: 76%
+2024-10-27T00:41:48.096Z [INFO]: Converted SVG to PNG: init_frame_46.png
+2024-10-27T00:41:48.096Z [INFO]: Initialization Frame: Step 47 / 60 - Progress: 78%
+2024-10-27T00:41:48.115Z [INFO]: Converted SVG to PNG: init_frame_47.png
+2024-10-27T00:41:48.115Z [INFO]: Initialization Frame: Step 48 / 60 - Progress: 80%
+2024-10-27T00:41:48.131Z [INFO]: Converted SVG to PNG: init_frame_48.png
+2024-10-27T00:41:48.131Z [INFO]: Initialization Frame: Step 49 / 60 - Progress: 81%
+2024-10-27T00:41:48.146Z [INFO]: Converted SVG to PNG: init_frame_49.png
+2024-10-27T00:41:48.146Z [INFO]: Initialization Frame: Step 50 / 60 - Progress: 83%
+2024-10-27T00:41:48.160Z [INFO]: Converted SVG to PNG: init_frame_50.png
+2024-10-27T00:41:48.161Z [INFO]: Initialization Frame: Step 51 / 60 - Progress: 85%
+2024-10-27T00:41:48.175Z [INFO]: Converted SVG to PNG: init_frame_51.png
+2024-10-27T00:41:48.175Z [INFO]: Initialization Frame: Step 52 / 60 - Progress: 86%
+2024-10-27T00:41:48.190Z [INFO]: Converted SVG to PNG: init_frame_52.png
+2024-10-27T00:41:48.190Z [INFO]: Initialization Frame: Step 53 / 60 - Progress: 88%
+2024-10-27T00:41:48.205Z [INFO]: Converted SVG to PNG: init_frame_53.png
+2024-10-27T00:41:48.205Z [INFO]: Initialization Frame: Step 54 / 60 - Progress: 90%
+2024-10-27T00:41:48.224Z [INFO]: Converted SVG to PNG: init_frame_54.png
+2024-10-27T00:41:48.224Z [INFO]: Initialization Frame: Step 55 / 60 - Progress: 91%
+2024-10-27T00:41:48.239Z [INFO]: Converted SVG to PNG: init_frame_55.png
+2024-10-27T00:41:48.239Z [INFO]: Initialization Frame: Step 56 / 60 - Progress: 93%
+2024-10-27T00:41:48.254Z [INFO]: Converted SVG to PNG: init_frame_56.png
+2024-10-27T00:41:48.254Z [INFO]: Initialization Frame: Step 57 / 60 - Progress: 95%
+2024-10-27T00:41:48.269Z [INFO]: Converted SVG to PNG: init_frame_57.png
+2024-10-27T00:41:48.269Z [INFO]: Initialization Frame: Step 58 / 60 - Progress: 96%
+2024-10-27T00:41:48.287Z [INFO]: Converted SVG to PNG: init_frame_58.png
+2024-10-27T00:41:48.287Z [INFO]: Initialization Frame: Step 59 / 60 - Progress: 98%
+2024-10-27T00:41:48.303Z [INFO]: Converted SVG to PNG: init_frame_59.png
+2024-10-27T00:41:48.303Z [INFO]: Initialization Frame: Step 60 / 60 - Progress: 100%
+2024-10-27T00:41:48.317Z [INFO]: Converted SVG to PNG: init_frame_60.png
+2024-10-27T00:41:48.317Z [INFO]: Scanning Frame: Step 0 / 100 - scanLineY: 200
+2024-10-27T00:41:48.334Z [INFO]: Converted SVG to PNG: scan_frame_0.png
+2024-10-27T00:41:48.334Z [INFO]: Scanning Frame: Step 1 / 100 - scanLineY: 204
+2024-10-27T00:41:48.351Z [INFO]: Converted SVG to PNG: scan_frame_1.png
+2024-10-27T00:41:48.351Z [INFO]: Scanning Frame: Step 2 / 100 - scanLineY: 208
+2024-10-27T00:41:48.368Z [INFO]: Converted SVG to PNG: scan_frame_2.png
+2024-10-27T00:41:48.368Z [INFO]: Scanning Frame: Step 3 / 100 - scanLineY: 212
+2024-10-27T00:41:48.389Z [INFO]: Converted SVG to PNG: scan_frame_3.png
+2024-10-27T00:41:48.389Z [INFO]: Scanning Frame: Step 4 / 100 - scanLineY: 216
+2024-10-27T00:41:48.410Z [INFO]: Converted SVG to PNG: scan_frame_4.png
+2024-10-27T00:41:48.410Z [INFO]: Scanning Frame: Step 5 / 100 - scanLineY: 220
+2024-10-27T00:41:48.429Z [INFO]: Converted SVG to PNG: scan_frame_5.png
+2024-10-27T00:41:48.429Z [INFO]: Scanning Frame: Step 6 / 100 - scanLineY: 224
+2024-10-27T00:41:48.445Z [INFO]: Converted SVG to PNG: scan_frame_6.png
+2024-10-27T00:41:48.446Z [INFO]: Scanning Frame: Step 7 / 100 - scanLineY: 228
+2024-10-27T00:41:48.462Z [INFO]: Converted SVG to PNG: scan_frame_7.png
+2024-10-27T00:41:48.463Z [INFO]: Scanning Frame: Step 8 / 100 - scanLineY: 232
+2024-10-27T00:41:48.480Z [INFO]: Converted SVG to PNG: scan_frame_8.png
+2024-10-27T00:41:48.481Z [INFO]: Scanning Frame: Step 9 / 100 - scanLineY: 236
+2024-10-27T00:41:48.496Z [INFO]: Converted SVG to PNG: scan_frame_9.png
+2024-10-27T00:41:48.496Z [INFO]: Scanning Frame: Step 10 / 100 - scanLineY: 240
+2024-10-27T00:41:48.513Z [INFO]: Converted SVG to PNG: scan_frame_10.png
+2024-10-27T00:41:48.513Z [INFO]: Scanning Frame: Step 11 / 100 - scanLineY: 244
+2024-10-27T00:41:48.530Z [INFO]: Converted SVG to PNG: scan_frame_11.png
+2024-10-27T00:41:48.530Z [INFO]: Scanning Frame: Step 12 / 100 - scanLineY: 248
+2024-10-27T00:41:48.546Z [INFO]: Converted SVG to PNG: scan_frame_12.png
+2024-10-27T00:41:48.547Z [INFO]: Scanning Frame: Step 13 / 100 - scanLineY: 252
+2024-10-27T00:41:48.562Z [INFO]: Converted SVG to PNG: scan_frame_13.png
+2024-10-27T00:41:48.563Z [INFO]: Scanning Frame: Step 14 / 100 - scanLineY: 256
+2024-10-27T00:41:48.582Z [INFO]: Converted SVG to PNG: scan_frame_14.png
+2024-10-27T00:41:48.582Z [INFO]: Scanning Frame: Step 15 / 100 - scanLineY: 260
+2024-10-27T00:41:48.600Z [INFO]: Converted SVG to PNG: scan_frame_15.png
+2024-10-27T00:41:48.600Z [INFO]: Scanning Frame: Step 16 / 100 - scanLineY: 264
+2024-10-27T00:41:48.617Z [INFO]: Converted SVG to PNG: scan_frame_16.png
+2024-10-27T00:41:48.617Z [INFO]: Scanning Frame: Step 17 / 100 - scanLineY: 268
+2024-10-27T00:41:48.633Z [INFO]: Converted SVG to PNG: scan_frame_17.png
+2024-10-27T00:41:48.633Z [INFO]: Scanning Frame: Step 18 / 100 - scanLineY: 272
+2024-10-27T00:41:48.650Z [INFO]: Converted SVG to PNG: scan_frame_18.png
+2024-10-27T00:41:48.650Z [INFO]: Scanning Frame: Step 19 / 100 - scanLineY: 276
+2024-10-27T00:41:48.667Z [INFO]: Converted SVG to PNG: scan_frame_19.png
+2024-10-27T00:41:48.667Z [INFO]: Scanning Frame: Step 20 / 100 - scanLineY: 280
+2024-10-27T00:41:48.683Z [INFO]: Converted SVG to PNG: scan_frame_20.png
+2024-10-27T00:41:48.683Z [INFO]: Scanning Frame: Step 21 / 100 - scanLineY: 284
+2024-10-27T00:41:48.700Z [INFO]: Converted SVG to PNG: scan_frame_21.png
+2024-10-27T00:41:48.700Z [INFO]: Scanning Frame: Step 22 / 100 - scanLineY: 288
+2024-10-27T00:41:48.717Z [INFO]: Converted SVG to PNG: scan_frame_22.png
+2024-10-27T00:41:48.717Z [INFO]: Scanning Frame: Step 23 / 100 - scanLineY: 292
+2024-10-27T00:41:48.734Z [INFO]: Converted SVG to PNG: scan_frame_23.png
+2024-10-27T00:41:48.734Z [INFO]: Scanning Frame: Step 24 / 100 - scanLineY: 296
+2024-10-27T00:41:48.750Z [INFO]: Converted SVG to PNG: scan_frame_24.png
+2024-10-27T00:41:48.750Z [INFO]: Scanning Frame: Step 25 / 100 - scanLineY: 300
+2024-10-27T00:41:48.766Z [INFO]: Converted SVG to PNG: scan_frame_25.png
+2024-10-27T00:41:48.766Z [INFO]: Scanning Frame: Step 26 / 100 - scanLineY: 304
+2024-10-27T00:41:48.783Z [INFO]: Converted SVG to PNG: scan_frame_26.png
+2024-10-27T00:41:48.783Z [INFO]: Scanning Frame: Step 27 / 100 - scanLineY: 308
+2024-10-27T00:41:48.803Z [INFO]: Converted SVG to PNG: scan_frame_27.png
+2024-10-27T00:41:48.803Z [INFO]: Scanning Frame: Step 28 / 100 - scanLineY: 312
+2024-10-27T00:41:48.820Z [INFO]: Converted SVG to PNG: scan_frame_28.png
+2024-10-27T00:41:48.820Z [INFO]: Scanning Frame: Step 29 / 100 - scanLineY: 316
+2024-10-27T00:41:48.836Z [INFO]: Converted SVG to PNG: scan_frame_29.png
+2024-10-27T00:41:48.836Z [INFO]: Scanning Frame: Step 30 / 100 - scanLineY: 320
+2024-10-27T00:41:48.853Z [INFO]: Converted SVG to PNG: scan_frame_30.png
+2024-10-27T00:41:48.853Z [INFO]: Scanning Frame: Step 31 / 100 - scanLineY: 324
+2024-10-27T00:41:48.868Z [INFO]: Converted SVG to PNG: scan_frame_31.png
+2024-10-27T00:41:48.869Z [INFO]: Scanning Frame: Step 32 / 100 - scanLineY: 328
+2024-10-27T00:41:48.885Z [INFO]: Converted SVG to PNG: scan_frame_32.png
+2024-10-27T00:41:48.886Z [INFO]: Scanning Frame: Step 33 / 100 - scanLineY: 332
+2024-10-27T00:41:48.901Z [INFO]: Converted SVG to PNG: scan_frame_33.png
+2024-10-27T00:41:48.902Z [INFO]: Scanning Frame: Step 34 / 100 - scanLineY: 336
+2024-10-27T00:41:48.918Z [INFO]: Converted SVG to PNG: scan_frame_34.png
+2024-10-27T00:41:48.918Z [INFO]: Scanning Frame: Step 35 / 100 - scanLineY: 340
+2024-10-27T00:41:48.934Z [INFO]: Converted SVG to PNG: scan_frame_35.png
+2024-10-27T00:41:48.935Z [INFO]: Scanning Frame: Step 36 / 100 - scanLineY: 344
+2024-10-27T00:41:48.951Z [INFO]: Converted SVG to PNG: scan_frame_36.png
+2024-10-27T00:41:48.951Z [INFO]: Scanning Frame: Step 37 / 100 - scanLineY: 348
+2024-10-27T00:41:48.968Z [INFO]: Converted SVG to PNG: scan_frame_37.png
+2024-10-27T00:41:48.968Z [INFO]: Scanning Frame: Step 38 / 100 - scanLineY: 352
+2024-10-27T00:41:48.986Z [INFO]: Converted SVG to PNG: scan_frame_38.png
+2024-10-27T00:41:48.986Z [INFO]: Scanning Frame: Step 39 / 100 - scanLineY: 356
+2024-10-27T00:41:49.002Z [INFO]: Converted SVG to PNG: scan_frame_39.png
+2024-10-27T00:41:49.002Z [INFO]: Scanning Frame: Step 40 / 100 - scanLineY: 360
+2024-10-27T00:41:49.017Z [INFO]: Converted SVG to PNG: scan_frame_40.png
+2024-10-27T00:41:49.017Z [INFO]: Scanning Frame: Step 41 / 100 - scanLineY: 364
+2024-10-27T00:41:49.034Z [INFO]: Converted SVG to PNG: scan_frame_41.png
+2024-10-27T00:41:49.034Z [INFO]: Scanning Frame: Step 42 / 100 - scanLineY: 368
+2024-10-27T00:41:49.050Z [INFO]: Converted SVG to PNG: scan_frame_42.png
+2024-10-27T00:41:49.050Z [INFO]: Scanning Frame: Step 43 / 100 - scanLineY: 372
+2024-10-27T00:41:49.067Z [INFO]: Converted SVG to PNG: scan_frame_43.png
+2024-10-27T00:41:49.067Z [INFO]: Scanning Frame: Step 44 / 100 - scanLineY: 376
+2024-10-27T00:41:49.091Z [INFO]: Converted SVG to PNG: scan_frame_44.png
+2024-10-27T00:41:49.091Z [INFO]: Scanning Frame: Step 45 / 100 - scanLineY: 380
+2024-10-27T00:41:49.109Z [INFO]: Converted SVG to PNG: scan_frame_45.png
+2024-10-27T00:41:49.110Z [INFO]: Scanning Frame: Step 46 / 100 - scanLineY: 384
+2024-10-27T00:41:49.126Z [INFO]: Converted SVG to PNG: scan_frame_46.png
+2024-10-27T00:41:49.126Z [INFO]: Scanning Frame: Step 47 / 100 - scanLineY: 388
+2024-10-27T00:41:49.143Z [INFO]: Converted SVG to PNG: scan_frame_47.png
+2024-10-27T00:41:49.143Z [INFO]: Scanning Frame: Step 48 / 100 - scanLineY: 392
+2024-10-27T00:41:49.160Z [INFO]: Converted SVG to PNG: scan_frame_48.png
+2024-10-27T00:41:49.160Z [INFO]: Scanning Frame: Step 49 / 100 - scanLineY: 396
+2024-10-27T00:41:49.177Z [INFO]: Converted SVG to PNG: scan_frame_49.png
+2024-10-27T00:41:49.177Z [INFO]: Scanning Frame: Step 50 / 100 - scanLineY: 400
+2024-10-27T00:41:49.193Z [INFO]: Converted SVG to PNG: scan_frame_50.png
+2024-10-27T00:41:49.193Z [INFO]: Scanning Frame: Step 51 / 100 - scanLineY: 404
+2024-10-27T00:41:49.211Z [INFO]: Converted SVG to PNG: scan_frame_51.png
+2024-10-27T00:41:49.211Z [INFO]: Scanning Frame: Step 52 / 100 - scanLineY: 408
+2024-10-27T00:41:49.227Z [INFO]: Converted SVG to PNG: scan_frame_52.png
+2024-10-27T00:41:49.227Z [INFO]: Scanning Frame: Step 53 / 100 - scanLineY: 412
+2024-10-27T00:41:49.244Z [INFO]: Converted SVG to PNG: scan_frame_53.png
+2024-10-27T00:41:49.244Z [INFO]: Scanning Frame: Step 54 / 100 - scanLineY: 416
+2024-10-27T00:41:49.261Z [INFO]: Converted SVG to PNG: scan_frame_54.png
+2024-10-27T00:41:49.261Z [INFO]: Scanning Frame: Step 55 / 100 - scanLineY: 420
+2024-10-27T00:41:49.280Z [INFO]: Converted SVG to PNG: scan_frame_55.png
+2024-10-27T00:41:49.280Z [INFO]: Scanning Frame: Step 56 / 100 - scanLineY: 424
+2024-10-27T00:41:49.301Z [INFO]: Converted SVG to PNG: scan_frame_56.png
+2024-10-27T00:41:49.301Z [INFO]: Scanning Frame: Step 57 / 100 - scanLineY: 428
+2024-10-27T00:41:49.323Z [INFO]: Converted SVG to PNG: scan_frame_57.png
+2024-10-27T00:41:49.323Z [INFO]: Scanning Frame: Step 58 / 100 - scanLineY: 432
+2024-10-27T00:41:49.342Z [INFO]: Converted SVG to PNG: scan_frame_58.png
+2024-10-27T00:41:49.342Z [INFO]: Scanning Frame: Step 59 / 100 - scanLineY: 436
+2024-10-27T00:41:49.367Z [INFO]: Converted SVG to PNG: scan_frame_59.png
+2024-10-27T00:41:49.368Z [INFO]: Scanning Frame: Step 60 / 100 - scanLineY: 440
+2024-10-27T00:41:49.385Z [INFO]: Converted SVG to PNG: scan_frame_60.png
+2024-10-27T00:41:49.385Z [INFO]: Scanning Frame: Step 61 / 100 - scanLineY: 444
+2024-10-27T00:41:49.401Z [INFO]: Converted SVG to PNG: scan_frame_61.png
+2024-10-27T00:41:49.401Z [INFO]: Scanning Frame: Step 62 / 100 - scanLineY: 448
+2024-10-27T00:41:49.417Z [INFO]: Converted SVG to PNG: scan_frame_62.png
+2024-10-27T00:41:49.417Z [INFO]: Scanning Frame: Step 63 / 100 - scanLineY: 452
+2024-10-27T00:41:49.434Z [INFO]: Converted SVG to PNG: scan_frame_63.png
+2024-10-27T00:41:49.434Z [INFO]: Scanning Frame: Step 64 / 100 - scanLineY: 456
+2024-10-27T00:41:49.449Z [INFO]: Converted SVG to PNG: scan_frame_64.png
+2024-10-27T00:41:49.449Z [INFO]: Scanning Frame: Step 65 / 100 - scanLineY: 460
+2024-10-27T00:41:49.466Z [INFO]: Converted SVG to PNG: scan_frame_65.png
+2024-10-27T00:41:49.466Z [INFO]: Scanning Frame: Step 66 / 100 - scanLineY: 464
+2024-10-27T00:41:49.482Z [INFO]: Converted SVG to PNG: scan_frame_66.png
+2024-10-27T00:41:49.483Z [INFO]: Scanning Frame: Step 67 / 100 - scanLineY: 468
+2024-10-27T00:41:49.499Z [INFO]: Converted SVG to PNG: scan_frame_67.png
+2024-10-27T00:41:49.499Z [INFO]: Scanning Frame: Step 68 / 100 - scanLineY: 472
+2024-10-27T00:41:49.515Z [INFO]: Converted SVG to PNG: scan_frame_68.png
+2024-10-27T00:41:49.515Z [INFO]: Scanning Frame: Step 69 / 100 - scanLineY: 476
+2024-10-27T00:41:49.531Z [INFO]: Converted SVG to PNG: scan_frame_69.png
+2024-10-27T00:41:49.531Z [INFO]: Scanning Frame: Step 70 / 100 - scanLineY: 480
+2024-10-27T00:41:49.548Z [INFO]: Converted SVG to PNG: scan_frame_70.png
+2024-10-27T00:41:49.548Z [INFO]: Scanning Frame: Step 71 / 100 - scanLineY: 484
+2024-10-27T00:41:49.564Z [INFO]: Converted SVG to PNG: scan_frame_71.png
+2024-10-27T00:41:49.564Z [INFO]: Scanning Frame: Step 72 / 100 - scanLineY: 488
+2024-10-27T00:41:49.580Z [INFO]: Converted SVG to PNG: scan_frame_72.png
+2024-10-27T00:41:49.580Z [INFO]: Scanning Frame: Step 73 / 100 - scanLineY: 492
+2024-10-27T00:41:49.596Z [INFO]: Converted SVG to PNG: scan_frame_73.png
+2024-10-27T00:41:49.596Z [INFO]: Scanning Frame: Step 74 / 100 - scanLineY: 496
+2024-10-27T00:41:49.612Z [INFO]: Converted SVG to PNG: scan_frame_74.png
+2024-10-27T00:41:49.612Z [INFO]: Scanning Frame: Step 75 / 100 - scanLineY: 500
+2024-10-27T00:41:49.628Z [INFO]: Converted SVG to PNG: scan_frame_75.png
+2024-10-27T00:41:49.628Z [INFO]: Scanning Frame: Step 76 / 100 - scanLineY: 504
+2024-10-27T00:41:49.643Z [INFO]: Converted SVG to PNG: scan_frame_76.png
+2024-10-27T00:41:49.643Z [INFO]: Scanning Frame: Step 77 / 100 - scanLineY: 508
+2024-10-27T00:41:49.659Z [INFO]: Converted SVG to PNG: scan_frame_77.png
+2024-10-27T00:41:49.659Z [INFO]: Scanning Frame: Step 78 / 100 - scanLineY: 512
+2024-10-27T00:41:49.675Z [INFO]: Converted SVG to PNG: scan_frame_78.png
+2024-10-27T00:41:49.675Z [INFO]: Scanning Frame: Step 79 / 100 - scanLineY: 516
+2024-10-27T00:41:49.692Z [INFO]: Converted SVG to PNG: scan_frame_79.png
+2024-10-27T00:41:49.692Z [INFO]: Scanning Frame: Step 80 / 100 - scanLineY: 520
+2024-10-27T00:41:49.708Z [INFO]: Converted SVG to PNG: scan_frame_80.png
+2024-10-27T00:41:49.708Z [INFO]: Scanning Frame: Step 81 / 100 - scanLineY: 524
+2024-10-27T00:41:49.723Z [INFO]: Converted SVG to PNG: scan_frame_81.png
+2024-10-27T00:41:49.724Z [INFO]: Scanning Frame: Step 82 / 100 - scanLineY: 528
+2024-10-27T00:41:49.739Z [INFO]: Converted SVG to PNG: scan_frame_82.png
+2024-10-27T00:41:49.739Z [INFO]: Scanning Frame: Step 83 / 100 - scanLineY: 532
+2024-10-27T00:41:49.756Z [INFO]: Converted SVG to PNG: scan_frame_83.png
+2024-10-27T00:41:49.756Z [INFO]: Scanning Frame: Step 84 / 100 - scanLineY: 536
+2024-10-27T00:41:49.773Z [INFO]: Converted SVG to PNG: scan_frame_84.png
+2024-10-27T00:41:49.773Z [INFO]: Scanning Frame: Step 85 / 100 - scanLineY: 540
+2024-10-27T00:41:49.788Z [INFO]: Converted SVG to PNG: scan_frame_85.png
+2024-10-27T00:41:49.789Z [INFO]: Scanning Frame: Step 86 / 100 - scanLineY: 544
+2024-10-27T00:41:49.804Z [INFO]: Converted SVG to PNG: scan_frame_86.png
+2024-10-27T00:41:49.804Z [INFO]: Scanning Frame: Step 87 / 100 - scanLineY: 548
+2024-10-27T00:41:49.821Z [INFO]: Converted SVG to PNG: scan_frame_87.png
+2024-10-27T00:41:49.821Z [INFO]: Scanning Frame: Step 88 / 100 - scanLineY: 552
+2024-10-27T00:41:49.836Z [INFO]: Converted SVG to PNG: scan_frame_88.png
+2024-10-27T00:41:49.836Z [INFO]: Scanning Frame: Step 89 / 100 - scanLineY: 556
+2024-10-27T00:41:49.853Z [INFO]: Converted SVG to PNG: scan_frame_89.png
+2024-10-27T00:41:49.853Z [INFO]: Scanning Frame: Step 90 / 100 - scanLineY: 560
+2024-10-27T00:41:49.870Z [INFO]: Converted SVG to PNG: scan_frame_90.png
+2024-10-27T00:41:49.870Z [INFO]: Scanning Frame: Step 91 / 100 - scanLineY: 564
+2024-10-27T00:41:49.887Z [INFO]: Converted SVG to PNG: scan_frame_91.png
+2024-10-27T00:41:49.887Z [INFO]: Scanning Frame: Step 92 / 100 - scanLineY: 568
+2024-10-27T00:41:49.904Z [INFO]: Converted SVG to PNG: scan_frame_92.png
+2024-10-27T00:41:49.904Z [INFO]: Scanning Frame: Step 93 / 100 - scanLineY: 572
+2024-10-27T00:41:49.921Z [INFO]: Converted SVG to PNG: scan_frame_93.png
+2024-10-27T00:41:49.921Z [INFO]: Scanning Frame: Step 94 / 100 - scanLineY: 576
+2024-10-27T00:41:49.937Z [INFO]: Converted SVG to PNG: scan_frame_94.png
+2024-10-27T00:41:49.937Z [INFO]: Scanning Frame: Step 95 / 100 - scanLineY: 580
+2024-10-27T00:41:49.954Z [INFO]: Converted SVG to PNG: scan_frame_95.png
+2024-10-27T00:41:49.954Z [INFO]: Scanning Frame: Step 96 / 100 - scanLineY: 584
+2024-10-27T00:41:49.970Z [INFO]: Converted SVG to PNG: scan_frame_96.png
+2024-10-27T00:41:49.971Z [INFO]: Scanning Frame: Step 97 / 100 - scanLineY: 588
+2024-10-27T00:41:49.987Z [INFO]: Converted SVG to PNG: scan_frame_97.png
+2024-10-27T00:41:49.987Z [INFO]: Scanning Frame: Step 98 / 100 - scanLineY: 592
+2024-10-27T00:41:50.004Z [INFO]: Converted SVG to PNG: scan_frame_98.png
+2024-10-27T00:41:50.004Z [INFO]: Scanning Frame: Step 99 / 100 - scanLineY: 596
+2024-10-27T00:41:50.021Z [INFO]: Converted SVG to PNG: scan_frame_99.png
+2024-10-27T00:41:50.021Z [INFO]: Scanning Frame: Step 100 / 100 - scanLineY: 600
+2024-10-27T00:41:50.037Z [INFO]: Converted SVG to PNG: scan_frame_100.png
+2024-10-27T00:41:50.038Z [INFO]: Result Frame: Step 0 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.053Z [INFO]: Converted SVG to PNG: result_frame_0.png
+2024-10-27T00:41:50.053Z [INFO]: Result Frame: Step 1 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.067Z [INFO]: Converted SVG to PNG: result_frame_1.png
+2024-10-27T00:41:50.068Z [INFO]: Result Frame: Step 2 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.082Z [INFO]: Converted SVG to PNG: result_frame_2.png
+2024-10-27T00:41:50.082Z [INFO]: Result Frame: Step 3 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.096Z [INFO]: Converted SVG to PNG: result_frame_3.png
+2024-10-27T00:41:50.096Z [INFO]: Result Frame: Step 4 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.110Z [INFO]: Converted SVG to PNG: result_frame_4.png
+2024-10-27T00:41:50.110Z [INFO]: Result Frame: Step 5 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.125Z [INFO]: Converted SVG to PNG: result_frame_5.png
+2024-10-27T00:41:50.125Z [INFO]: Result Frame: Step 6 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.140Z [INFO]: Converted SVG to PNG: result_frame_6.png
+2024-10-27T00:41:50.140Z [INFO]: Result Frame: Step 7 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.155Z [INFO]: Converted SVG to PNG: result_frame_7.png
+2024-10-27T00:41:50.155Z [INFO]: Result Frame: Step 8 / 80 - Visible Lines: 0
+2024-10-27T00:41:50.170Z [INFO]: Converted SVG to PNG: result_frame_8.png
+2024-10-27T00:41:50.170Z [INFO]: Result Frame: Step 9 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.187Z [INFO]: Converted SVG to PNG: result_frame_9.png
+2024-10-27T00:41:50.187Z [INFO]: Result Frame: Step 10 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.203Z [INFO]: Converted SVG to PNG: result_frame_10.png
+2024-10-27T00:41:50.204Z [INFO]: Result Frame: Step 11 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.220Z [INFO]: Converted SVG to PNG: result_frame_11.png
+2024-10-27T00:41:50.221Z [INFO]: Result Frame: Step 12 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.236Z [INFO]: Converted SVG to PNG: result_frame_12.png
+2024-10-27T00:41:50.236Z [INFO]: Result Frame: Step 13 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.254Z [INFO]: Converted SVG to PNG: result_frame_13.png
+2024-10-27T00:41:50.254Z [INFO]: Result Frame: Step 14 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.270Z [INFO]: Converted SVG to PNG: result_frame_14.png
+2024-10-27T00:41:50.270Z [INFO]: Result Frame: Step 15 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.287Z [INFO]: Converted SVG to PNG: result_frame_15.png
+2024-10-27T00:41:50.287Z [INFO]: Result Frame: Step 16 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.303Z [INFO]: Converted SVG to PNG: result_frame_16.png
+2024-10-27T00:41:50.303Z [INFO]: Result Frame: Step 17 / 80 - Visible Lines: 1
+2024-10-27T00:41:50.320Z [INFO]: Converted SVG to PNG: result_frame_17.png
+2024-10-27T00:41:50.320Z [INFO]: Result Frame: Step 18 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.337Z [INFO]: Converted SVG to PNG: result_frame_18.png
+2024-10-27T00:41:50.337Z [INFO]: Result Frame: Step 19 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.354Z [INFO]: Converted SVG to PNG: result_frame_19.png
+2024-10-27T00:41:50.354Z [INFO]: Result Frame: Step 20 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.373Z [INFO]: Converted SVG to PNG: result_frame_20.png
+2024-10-27T00:41:50.373Z [INFO]: Result Frame: Step 21 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.391Z [INFO]: Converted SVG to PNG: result_frame_21.png
+2024-10-27T00:41:50.391Z [INFO]: Result Frame: Step 22 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.408Z [INFO]: Converted SVG to PNG: result_frame_22.png
+2024-10-27T00:41:50.408Z [INFO]: Result Frame: Step 23 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.426Z [INFO]: Converted SVG to PNG: result_frame_23.png
+2024-10-27T00:41:50.426Z [INFO]: Result Frame: Step 24 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.443Z [INFO]: Converted SVG to PNG: result_frame_24.png
+2024-10-27T00:41:50.444Z [INFO]: Result Frame: Step 25 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.461Z [INFO]: Converted SVG to PNG: result_frame_25.png
+2024-10-27T00:41:50.461Z [INFO]: Result Frame: Step 26 / 80 - Visible Lines: 2
+2024-10-27T00:41:50.480Z [INFO]: Converted SVG to PNG: result_frame_26.png
+2024-10-27T00:41:50.480Z [INFO]: Result Frame: Step 27 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.500Z [INFO]: Converted SVG to PNG: result_frame_27.png
+2024-10-27T00:41:50.500Z [INFO]: Result Frame: Step 28 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.520Z [INFO]: Converted SVG to PNG: result_frame_28.png
+2024-10-27T00:41:50.520Z [INFO]: Result Frame: Step 29 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.539Z [INFO]: Converted SVG to PNG: result_frame_29.png
+2024-10-27T00:41:50.540Z [INFO]: Result Frame: Step 30 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.559Z [INFO]: Converted SVG to PNG: result_frame_30.png
+2024-10-27T00:41:50.559Z [INFO]: Result Frame: Step 31 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.578Z [INFO]: Converted SVG to PNG: result_frame_31.png
+2024-10-27T00:41:50.578Z [INFO]: Result Frame: Step 32 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.597Z [INFO]: Converted SVG to PNG: result_frame_32.png
+2024-10-27T00:41:50.597Z [INFO]: Result Frame: Step 33 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.616Z [INFO]: Converted SVG to PNG: result_frame_33.png
+2024-10-27T00:41:50.616Z [INFO]: Result Frame: Step 34 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.636Z [INFO]: Converted SVG to PNG: result_frame_34.png
+2024-10-27T00:41:50.636Z [INFO]: Result Frame: Step 35 / 80 - Visible Lines: 3
+2024-10-27T00:41:50.655Z [INFO]: Converted SVG to PNG: result_frame_35.png
+2024-10-27T00:41:50.655Z [INFO]: Result Frame: Step 36 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.676Z [INFO]: Converted SVG to PNG: result_frame_36.png
+2024-10-27T00:41:50.676Z [INFO]: Result Frame: Step 37 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.696Z [INFO]: Converted SVG to PNG: result_frame_37.png
+2024-10-27T00:41:50.696Z [INFO]: Result Frame: Step 38 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.716Z [INFO]: Converted SVG to PNG: result_frame_38.png
+2024-10-27T00:41:50.716Z [INFO]: Result Frame: Step 39 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.736Z [INFO]: Converted SVG to PNG: result_frame_39.png
+2024-10-27T00:41:50.737Z [INFO]: Result Frame: Step 40 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.757Z [INFO]: Converted SVG to PNG: result_frame_40.png
+2024-10-27T00:41:50.757Z [INFO]: Result Frame: Step 41 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.778Z [INFO]: Converted SVG to PNG: result_frame_41.png
+2024-10-27T00:41:50.778Z [INFO]: Result Frame: Step 42 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.798Z [INFO]: Converted SVG to PNG: result_frame_42.png
+2024-10-27T00:41:50.798Z [INFO]: Result Frame: Step 43 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.818Z [INFO]: Converted SVG to PNG: result_frame_43.png
+2024-10-27T00:41:50.818Z [INFO]: Result Frame: Step 44 / 80 - Visible Lines: 4
+2024-10-27T00:41:50.838Z [INFO]: Converted SVG to PNG: result_frame_44.png
+2024-10-27T00:41:50.839Z [INFO]: Result Frame: Step 45 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.861Z [INFO]: Converted SVG to PNG: result_frame_45.png
+2024-10-27T00:41:50.861Z [INFO]: Result Frame: Step 46 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.883Z [INFO]: Converted SVG to PNG: result_frame_46.png
+2024-10-27T00:41:50.883Z [INFO]: Result Frame: Step 47 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.906Z [INFO]: Converted SVG to PNG: result_frame_47.png
+2024-10-27T00:41:50.906Z [INFO]: Result Frame: Step 48 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.928Z [INFO]: Converted SVG to PNG: result_frame_48.png
+2024-10-27T00:41:50.929Z [INFO]: Result Frame: Step 49 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.952Z [INFO]: Converted SVG to PNG: result_frame_49.png
+2024-10-27T00:41:50.952Z [INFO]: Result Frame: Step 50 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.974Z [INFO]: Converted SVG to PNG: result_frame_50.png
+2024-10-27T00:41:50.974Z [INFO]: Result Frame: Step 51 / 80 - Visible Lines: 5
+2024-10-27T00:41:50.996Z [INFO]: Converted SVG to PNG: result_frame_51.png
+2024-10-27T00:41:50.996Z [INFO]: Result Frame: Step 52 / 80 - Visible Lines: 5
+2024-10-27T00:41:51.019Z [INFO]: Converted SVG to PNG: result_frame_52.png
+2024-10-27T00:41:51.019Z [INFO]: Result Frame: Step 53 / 80 - Visible Lines: 5
+2024-10-27T00:41:51.043Z [INFO]: Converted SVG to PNG: result_frame_53.png
+2024-10-27T00:41:51.043Z [INFO]: Result Frame: Step 54 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.066Z [INFO]: Converted SVG to PNG: result_frame_54.png
+2024-10-27T00:41:51.066Z [INFO]: Result Frame: Step 55 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.090Z [INFO]: Converted SVG to PNG: result_frame_55.png
+2024-10-27T00:41:51.090Z [INFO]: Result Frame: Step 56 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.115Z [INFO]: Converted SVG to PNG: result_frame_56.png
+2024-10-27T00:41:51.115Z [INFO]: Result Frame: Step 57 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.142Z [INFO]: Converted SVG to PNG: result_frame_57.png
+2024-10-27T00:41:51.142Z [INFO]: Result Frame: Step 58 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.169Z [INFO]: Converted SVG to PNG: result_frame_58.png
+2024-10-27T00:41:51.169Z [INFO]: Result Frame: Step 59 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.205Z [INFO]: Converted SVG to PNG: result_frame_59.png
+2024-10-27T00:41:51.206Z [INFO]: Result Frame: Step 60 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.234Z [INFO]: Converted SVG to PNG: result_frame_60.png
+2024-10-27T00:41:51.234Z [INFO]: Result Frame: Step 61 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.259Z [INFO]: Converted SVG to PNG: result_frame_61.png
+2024-10-27T00:41:51.259Z [INFO]: Result Frame: Step 62 / 80 - Visible Lines: 6
+2024-10-27T00:41:51.281Z [INFO]: Converted SVG to PNG: result_frame_62.png
+2024-10-27T00:41:51.282Z [INFO]: Result Frame: Step 63 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.306Z [INFO]: Converted SVG to PNG: result_frame_63.png
+2024-10-27T00:41:51.306Z [INFO]: Result Frame: Step 64 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.331Z [INFO]: Converted SVG to PNG: result_frame_64.png
+2024-10-27T00:41:51.331Z [INFO]: Result Frame: Step 65 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.357Z [INFO]: Converted SVG to PNG: result_frame_65.png
+2024-10-27T00:41:51.357Z [INFO]: Result Frame: Step 66 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.382Z [INFO]: Converted SVG to PNG: result_frame_66.png
+2024-10-27T00:41:51.382Z [INFO]: Result Frame: Step 67 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.409Z [INFO]: Converted SVG to PNG: result_frame_67.png
+2024-10-27T00:41:51.409Z [INFO]: Result Frame: Step 68 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.436Z [INFO]: Converted SVG to PNG: result_frame_68.png
+2024-10-27T00:41:51.436Z [INFO]: Result Frame: Step 69 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.462Z [INFO]: Converted SVG to PNG: result_frame_69.png
+2024-10-27T00:41:51.462Z [INFO]: Result Frame: Step 70 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.487Z [INFO]: Converted SVG to PNG: result_frame_70.png
+2024-10-27T00:41:51.487Z [INFO]: Result Frame: Step 71 / 80 - Visible Lines: 7
+2024-10-27T00:41:51.513Z [INFO]: Converted SVG to PNG: result_frame_71.png
+2024-10-27T00:41:51.513Z [INFO]: Result Frame: Step 72 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.540Z [INFO]: Converted SVG to PNG: result_frame_72.png
+2024-10-27T00:41:51.540Z [INFO]: Result Frame: Step 73 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.567Z [INFO]: Converted SVG to PNG: result_frame_73.png
+2024-10-27T00:41:51.567Z [INFO]: Result Frame: Step 74 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.595Z [INFO]: Converted SVG to PNG: result_frame_74.png
+2024-10-27T00:41:51.596Z [INFO]: Result Frame: Step 75 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.623Z [INFO]: Converted SVG to PNG: result_frame_75.png
+2024-10-27T00:41:51.623Z [INFO]: Result Frame: Step 76 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.650Z [INFO]: Converted SVG to PNG: result_frame_76.png
+2024-10-27T00:41:51.650Z [INFO]: Result Frame: Step 77 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.679Z [INFO]: Converted SVG to PNG: result_frame_77.png
+2024-10-27T00:41:51.679Z [INFO]: Result Frame: Step 78 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.706Z [INFO]: Converted SVG to PNG: result_frame_78.png
+2024-10-27T00:41:51.706Z [INFO]: Result Frame: Step 79 / 80 - Visible Lines: 8
+2024-10-27T00:41:51.733Z [INFO]: Converted SVG to PNG: result_frame_79.png
+2024-10-27T00:41:51.733Z [INFO]: Result Frame: Step 80 / 80 - Visible Lines: 9
+2024-10-27T00:41:51.762Z [INFO]: Converted SVG to PNG: result_frame_80.png
+2024-10-27T00:41:51.762Z [INFO]: Created temporary directory: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c
+2024-10-27T00:41:51.763Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00000.png
+2024-10-27T00:41:51.763Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00001.png
+2024-10-27T00:41:51.763Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00002.png
+2024-10-27T00:41:51.764Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00003.png
+2024-10-27T00:41:51.764Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00004.png
+2024-10-27T00:41:51.764Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00005.png
+2024-10-27T00:41:51.764Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00006.png
+2024-10-27T00:41:51.765Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00007.png
+2024-10-27T00:41:51.765Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00008.png
+2024-10-27T00:41:51.765Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00009.png
+2024-10-27T00:41:51.765Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00010.png
+2024-10-27T00:41:51.766Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00011.png
+2024-10-27T00:41:51.766Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00012.png
+2024-10-27T00:41:51.766Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00013.png
+2024-10-27T00:41:51.766Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00014.png
+2024-10-27T00:41:51.767Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00015.png
+2024-10-27T00:41:51.767Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00016.png
+2024-10-27T00:41:51.767Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00017.png
+2024-10-27T00:41:51.767Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00018.png
+2024-10-27T00:41:51.768Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00019.png
+2024-10-27T00:41:51.768Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00020.png
+2024-10-27T00:41:51.768Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00021.png
+2024-10-27T00:41:51.768Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00022.png
+2024-10-27T00:41:51.769Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00023.png
+2024-10-27T00:41:51.769Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00024.png
+2024-10-27T00:41:51.769Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00025.png
+2024-10-27T00:41:51.769Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00026.png
+2024-10-27T00:41:51.769Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00027.png
+2024-10-27T00:41:51.770Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00028.png
+2024-10-27T00:41:51.770Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00029.png
+2024-10-27T00:41:51.770Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00030.png
+2024-10-27T00:41:51.771Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00031.png
+2024-10-27T00:41:51.771Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00032.png
+2024-10-27T00:41:51.771Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00033.png
+2024-10-27T00:41:51.772Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00034.png
+2024-10-27T00:41:51.772Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00035.png
+2024-10-27T00:41:51.773Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00036.png
+2024-10-27T00:41:51.773Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00037.png
+2024-10-27T00:41:51.773Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00038.png
+2024-10-27T00:41:51.774Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00039.png
+2024-10-27T00:41:51.774Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00040.png
+2024-10-27T00:41:51.774Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00041.png
+2024-10-27T00:41:51.775Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00042.png
+2024-10-27T00:41:51.775Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00043.png
+2024-10-27T00:41:51.775Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00044.png
+2024-10-27T00:41:51.776Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00045.png
+2024-10-27T00:41:51.776Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00046.png
+2024-10-27T00:41:51.776Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00047.png
+2024-10-27T00:41:51.777Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00048.png
+2024-10-27T00:41:51.777Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00049.png
+2024-10-27T00:41:51.777Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00050.png
+2024-10-27T00:41:51.777Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00051.png
+2024-10-27T00:41:51.778Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00052.png
+2024-10-27T00:41:51.778Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00053.png
+2024-10-27T00:41:51.778Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00054.png
+2024-10-27T00:41:51.778Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00055.png
+2024-10-27T00:41:51.779Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00056.png
+2024-10-27T00:41:51.779Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00057.png
+2024-10-27T00:41:51.779Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00058.png
+2024-10-27T00:41:51.779Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00059.png
+2024-10-27T00:41:51.780Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00060.png
+2024-10-27T00:41:51.780Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00061.png
+2024-10-27T00:41:51.780Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00062.png
+2024-10-27T00:41:51.780Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00063.png
+2024-10-27T00:41:51.781Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00064.png
+2024-10-27T00:41:51.781Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00065.png
+2024-10-27T00:41:51.781Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00066.png
+2024-10-27T00:41:51.781Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00067.png
+2024-10-27T00:41:51.782Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00068.png
+2024-10-27T00:41:51.782Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00069.png
+2024-10-27T00:41:51.782Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00070.png
+2024-10-27T00:41:51.782Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00071.png
+2024-10-27T00:41:51.783Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00072.png
+2024-10-27T00:41:51.783Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00073.png
+2024-10-27T00:41:51.783Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00074.png
+2024-10-27T00:41:51.783Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00075.png
+2024-10-27T00:41:51.784Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00076.png
+2024-10-27T00:41:51.784Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00077.png
+2024-10-27T00:41:51.784Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00078.png
+2024-10-27T00:41:51.785Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00079.png
+2024-10-27T00:41:51.785Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00080.png
+2024-10-27T00:41:51.786Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00081.png
+2024-10-27T00:41:51.786Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00082.png
+2024-10-27T00:41:51.786Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00083.png
+2024-10-27T00:41:51.787Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00084.png
+2024-10-27T00:41:51.787Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00085.png
+2024-10-27T00:41:51.788Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00086.png
+2024-10-27T00:41:51.788Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00087.png
+2024-10-27T00:41:51.788Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00088.png
+2024-10-27T00:41:51.789Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00089.png
+2024-10-27T00:41:51.789Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00090.png
+2024-10-27T00:41:51.789Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00091.png
+2024-10-27T00:41:51.789Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00092.png
+2024-10-27T00:41:51.790Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00093.png
+2024-10-27T00:41:51.790Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00094.png
+2024-10-27T00:41:51.790Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00095.png
+2024-10-27T00:41:51.790Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00096.png
+2024-10-27T00:41:51.791Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00097.png
+2024-10-27T00:41:51.791Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00098.png
+2024-10-27T00:41:51.791Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00099.png
+2024-10-27T00:41:51.791Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00100.png
+2024-10-27T00:41:51.792Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00101.png
+2024-10-27T00:41:51.792Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00102.png
+2024-10-27T00:41:51.793Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00103.png
+2024-10-27T00:41:51.793Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00104.png
+2024-10-27T00:41:51.793Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00105.png
+2024-10-27T00:41:51.794Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00106.png
+2024-10-27T00:41:51.794Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00107.png
+2024-10-27T00:41:51.794Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00108.png
+2024-10-27T00:41:51.795Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00109.png
+2024-10-27T00:41:51.795Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00110.png
+2024-10-27T00:41:51.795Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00111.png
+2024-10-27T00:41:51.795Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00112.png
+2024-10-27T00:41:51.796Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00113.png
+2024-10-27T00:41:51.797Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00114.png
+2024-10-27T00:41:51.797Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00115.png
+2024-10-27T00:41:51.797Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00116.png
+2024-10-27T00:41:51.798Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00117.png
+2024-10-27T00:41:51.798Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00118.png
+2024-10-27T00:41:51.799Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00119.png
+2024-10-27T00:41:51.799Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00120.png
+2024-10-27T00:41:51.800Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00121.png
+2024-10-27T00:41:51.800Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00122.png
+2024-10-27T00:41:51.801Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00123.png
+2024-10-27T00:41:51.801Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00124.png
+2024-10-27T00:41:51.801Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00125.png
+2024-10-27T00:41:51.802Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00126.png
+2024-10-27T00:41:51.802Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00127.png
+2024-10-27T00:41:51.802Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00128.png
+2024-10-27T00:41:51.803Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00129.png
+2024-10-27T00:41:51.803Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00130.png
+2024-10-27T00:41:51.803Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00131.png
+2024-10-27T00:41:51.804Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00132.png
+2024-10-27T00:41:51.804Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00133.png
+2024-10-27T00:41:51.804Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00134.png
+2024-10-27T00:41:51.805Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00135.png
+2024-10-27T00:41:51.805Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00136.png
+2024-10-27T00:41:51.805Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00137.png
+2024-10-27T00:41:51.805Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00138.png
+2024-10-27T00:41:51.806Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00139.png
+2024-10-27T00:41:51.806Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00140.png
+2024-10-27T00:41:51.806Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00141.png
+2024-10-27T00:41:51.806Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00142.png
+2024-10-27T00:41:51.807Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00143.png
+2024-10-27T00:41:51.808Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00144.png
+2024-10-27T00:41:51.808Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00145.png
+2024-10-27T00:41:51.809Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00146.png
+2024-10-27T00:41:51.809Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00147.png
+2024-10-27T00:41:51.810Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00148.png
+2024-10-27T00:41:51.810Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00149.png
+2024-10-27T00:41:51.810Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00150.png
+2024-10-27T00:41:51.810Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00151.png
+2024-10-27T00:41:51.810Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00152.png
+2024-10-27T00:41:51.811Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00153.png
+2024-10-27T00:41:51.811Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00154.png
+2024-10-27T00:41:51.812Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00155.png
+2024-10-27T00:41:51.812Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00156.png
+2024-10-27T00:41:51.813Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00157.png
+2024-10-27T00:41:51.813Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00158.png
+2024-10-27T00:41:51.813Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00159.png
+2024-10-27T00:41:51.814Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00160.png
+2024-10-27T00:41:51.814Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00161.png
+2024-10-27T00:41:51.814Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00162.png
+2024-10-27T00:41:51.814Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00163.png
+2024-10-27T00:41:51.815Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00164.png
+2024-10-27T00:41:51.816Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00165.png
+2024-10-27T00:41:51.816Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00166.png
+2024-10-27T00:41:51.817Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00167.png
+2024-10-27T00:41:51.817Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00168.png
+2024-10-27T00:41:51.817Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00169.png
+2024-10-27T00:41:51.818Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00170.png
+2024-10-27T00:41:51.818Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00171.png
+2024-10-27T00:41:51.818Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00172.png
+2024-10-27T00:41:51.818Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00173.png
+2024-10-27T00:41:51.819Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00174.png
+2024-10-27T00:41:51.819Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00175.png
+2024-10-27T00:41:51.819Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00176.png
+2024-10-27T00:41:51.819Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00177.png
+2024-10-27T00:41:51.820Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00178.png
+2024-10-27T00:41:51.820Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00179.png
+2024-10-27T00:41:51.820Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00180.png
+2024-10-27T00:41:51.820Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00181.png
+2024-10-27T00:41:51.821Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00182.png
+2024-10-27T00:41:51.821Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00183.png
+2024-10-27T00:41:51.821Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00184.png
+2024-10-27T00:41:51.822Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00185.png
+2024-10-27T00:41:51.822Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00186.png
+2024-10-27T00:41:51.822Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00187.png
+2024-10-27T00:41:51.823Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00188.png
+2024-10-27T00:41:51.824Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00189.png
+2024-10-27T00:41:51.824Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00190.png
+2024-10-27T00:41:51.824Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00191.png
+2024-10-27T00:41:51.825Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00192.png
+2024-10-27T00:41:51.825Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00193.png
+2024-10-27T00:41:51.826Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00194.png
+2024-10-27T00:41:51.826Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00195.png
+2024-10-27T00:41:51.827Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00196.png
+2024-10-27T00:41:51.827Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00197.png
+2024-10-27T00:41:51.828Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00198.png
+2024-10-27T00:41:51.828Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00199.png
+2024-10-27T00:41:51.828Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00200.png
+2024-10-27T00:41:51.829Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00201.png
+2024-10-27T00:41:51.829Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00202.png
+2024-10-27T00:41:51.829Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00203.png
+2024-10-27T00:41:51.829Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00204.png
+2024-10-27T00:41:51.830Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00205.png
+2024-10-27T00:41:51.830Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00206.png
+2024-10-27T00:41:51.830Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00207.png
+2024-10-27T00:41:51.831Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00208.png
+2024-10-27T00:41:51.831Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00209.png
+2024-10-27T00:41:51.831Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00210.png
+2024-10-27T00:41:51.832Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00211.png
+2024-10-27T00:41:51.832Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00212.png
+2024-10-27T00:41:51.832Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00213.png
+2024-10-27T00:41:51.833Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00214.png
+2024-10-27T00:41:51.833Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00215.png
+2024-10-27T00:41:51.834Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00216.png
+2024-10-27T00:41:51.834Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00217.png
+2024-10-27T00:41:51.835Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00218.png
+2024-10-27T00:41:51.835Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00219.png
+2024-10-27T00:41:51.835Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00220.png
+2024-10-27T00:41:51.836Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00221.png
+2024-10-27T00:41:51.836Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00222.png
+2024-10-27T00:41:51.836Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00223.png
+2024-10-27T00:41:51.836Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00224.png
+2024-10-27T00:41:51.836Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00225.png
+2024-10-27T00:41:51.837Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00226.png
+2024-10-27T00:41:51.837Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00227.png
+2024-10-27T00:41:51.837Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00228.png
+2024-10-27T00:41:51.838Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00229.png
+2024-10-27T00:41:51.838Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00230.png
+2024-10-27T00:41:51.838Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00231.png
+2024-10-27T00:41:51.838Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00232.png
+2024-10-27T00:41:51.838Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00233.png
+2024-10-27T00:41:51.839Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00234.png
+2024-10-27T00:41:51.839Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00235.png
+2024-10-27T00:41:51.839Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00236.png
+2024-10-27T00:41:51.840Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00237.png
+2024-10-27T00:41:51.841Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00238.png
+2024-10-27T00:41:51.841Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00239.png
+2024-10-27T00:41:51.841Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00240.png
+2024-10-27T00:41:51.842Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00241.png
+2024-10-27T00:41:51.843Z [INFO]: Saved frame: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c\frame_00242.png
+2024-10-27T00:41:51.850Z [INFO]: FFmpeg started with command: ffmpeg -framerate 15 -i C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c/frame_%05d.png -y -c:v libx264 -preset medium -pix_fmt yuv420p -vf scale=1200:800 -movflags +faststart -b:v 800k -r 15 C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c/scan_video.mp4
+2024-10-27T00:41:52.587Z [INFO]: FFmpeg progress: 59.67%
+2024-10-27T00:41:52.974Z [INFO]: FFmpeg progress: 165.23%
+2024-10-27T00:41:53.003Z [INFO]: FFmpeg finished processing: C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c/scan_video.mp4
+2024-10-27T00:41:53.004Z [INFO]: Read video file into buffer: C:/Users/tapie/Documents/Projects/SurnTest/commands/temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c/scan_video.mp4
+2024-10-27T00:41:53.410Z [INFO]: Cleaned up temporary files and directory: C:\Users\tapie\Documents\Projects\SurnTest\commands\temp_frames_b8aed58c-57f2-4dda-8588-194173fac97c
+2024-10-27T00:41:54.149Z [INFO]: Scan completed successfully for mode: standard, location: current area, query: , detailed: false

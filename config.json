@@ -1,0 +1,57 @@
+{
+    "roles": {
+        "admin": "1252594198906015845",
+        "gameMaster": "1252595499068821586",
+        "seniorStaff": "1298450572952862720",
+        "approvedCharacter": "1253224120783601664"
+    },
+    "divisions": {
+        "command": "1252630419141300408",
+        "operations": "1252630944863617159",
+        "science": "1252631086010470544"
+    },
+    "departments": {
+        "command": "1252631629831213078",
+        "tactical": "1252631775822217287",
+        "intelligence": "1252631874543554582",
+        "diplomaticCorps": "1252632097634517204",
+        "science": "1252633011996856320",
+        "medical": "1252633127319240724",
+        "researchAndDevelopment": "1252633752979505286",
+        "operations": "1252633283557330997",
+        "engineering": "1252633399886348389",
+        "security": "1252633479091322950"
+    },
+    "ranks": {
+        "commodore": "1299078103326265374",
+        "captain": "1252812416073597090",
+        "commander": "1252812458729406595",
+        "lieutenantCommander": "1252812510508351549",
+        "lieutenant": "1252812578631979049",
+        "lieutenantJuniorGrade": "1252812624337567934",
+        "ensign": "1252812811331964938",
+        "enlisted": "1299078131126112307"
+    },
+    "positions": {
+        "acting": "1252813442583367852",
+        "commandingOfficer": "1252813148134838414",
+        "executiveOfficer": "1252813229277577238",
+        "seniorStaffPosition": "1298450572952862720",
+        "departmentHead": "1252813556844335114",
+        "deputyDepartmentHead": "1252813634086899722",
+        "helmsmanPilot": "1252813681105043526"
+    },
+    "channels": {
+        "alertChannel": "1257959406549864471",
+        "modLogChannel": "1299065634448998515",
+        "captainsLogChannel": "1299624670252896316",
+        "missionLogChannel": "1299624691031343127",
+        "departmentLogChannel": "1299624730482966578",
+        "medicalLogChannel": "1299624751383314462"
+    },
+    "databases": {
+        "characters": "data/characters.db",
+        "roster": "data/roster.db"
+    },
+    "guildId": "1252593287408128110"
+}

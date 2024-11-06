@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/characters.db
+data/roster.db
+web-dashboard/client/node_modules
+web-dasbhoard/server/node_modules
